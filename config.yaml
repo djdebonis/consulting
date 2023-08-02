@@ -134,17 +134,17 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://example.com
-        - icon: fab fa-twitter
-          url: https://example.com
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+          url: https://github.com/djdebonis
+        - icon: fab fa-linkedin
+          url: https://www.linkedin.com/in/djdebonis/
+      # customIcons:
+      #   - icon: /fav.png
+      #     url: "https://example.com"
 
   # About
   about:
     enable: true
-    title: "About Terra Firma"
+    title: "About"
     image: "/images/me.png"
     content: |-
       From the founder, David J DeBonis:
@@ -168,7 +168,7 @@ params:
 
   # Experience
   experience:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - job: "Senior Software Developer"
@@ -247,16 +247,16 @@ params:
           Extracurricular Activities
             - Lorem ipsum dolor sit amet consectetur adipisicing elit.
             - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-      - title: "Bachelor of Science in Computer Science"
+      - title: "B.A. Creative Writing, Minor in Linguistics"
         school:
-          name: "Massachusetts Institute of Technology"
+          name: "University of Colorado, Denver"
           url: "https://example.org"
-        date: "2009 - 2013"
-        GPA: "3.9 out of 5.0"
+        date: "2018 - 2023"
+        # GPA: "3.9 out of 5.0"
         content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
+          I received two Undergraduate research grants during my undergraduate degree and presented the findings at two research conferences:
+          - What actually happens in a Writing Center? NLP and computational analysis applied to Writing Center data to create comprehensive topic models. [View Presentation](https://symposium.foragerone.com/2021-racas/presentations/27317)
+          - Efficacy of Explicit Instruction in Pronunciation and Phoneme Acquisition in First-Year English Speaking Spanish-as-a-Second-Language Students. [View Presentation](https://symposium.foragerone.com/2023-summer/presentations/58498)
 
           Extracurricular Activities
             - Lorem ipsum dolor sit amet consectetur adipisicing elit.
