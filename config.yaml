@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "http://localhost:1313"
 languageCode: "en-us"
 title: "Terra Firma Consulting"
 theme: 'hugo-profile'
@@ -118,9 +118,9 @@ params:
   hero:
     enable: true
     intro: "Hi, welcome to"
-    title: "Terra Firma Consulting"
+    title: "De Bonis Consulting"
     subtitle: "We help kickstart and scale small businesses in Denver"
-    content: "We will implement efficient, scalable, educational content for your brand that converts interested bystanders to high-paying customers and clients."
+    content: "We work with our clients to design and implement custom-tailored marketing campaigns."
     image: /images/hero.svg
     bottomImage:
       enable: true
