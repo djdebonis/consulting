@@ -5,9 +5,10 @@ draft: false
 github_link: ""
 author: "David J DeBonis"
 tags:
-  - Markdown syntax
-  - Sample
-  - example
+  - Writing
+  - Creative Nonfiction
+  - Essays
+  - Linguistics
 image: /images/debonis_brothers.jpg
 description: "In 1936, my great-great-grandfather shot the town sheriff in the village of Miglionico. And so, in 1936, my great-great-grandfather left on a ship to America…"
 toc:

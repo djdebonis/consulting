@@ -1,118 +1,89 @@
 ---
-title: "The circadian rhythm: what it is, why it's important, and how to align it"
-date: 2020-05-03T23:29:21+05:30
+title: "Black Coffee and the Prodigal Son"
+date: 2022-10-15T23:29:21+05:30
 draft: false
 github_link: ""
-author: "David J DeBonis"
+author: "David J de Bonis"
 tags:
-  - Markdown syntax
-  - Sample
-  - example
-image: /images/grass_nap_full.jpeg
-description: "The Circadian Rhythm is the body & brain’s biological clock. Although it runs autonomically, if it is out of synch with external factors, it can be detrimental to mood, sleep, energy levels, and more. Read more to learn how to fix your circadian rhythm..."
+  - Writing
+  - Creative Writing
+  - Nonfiction
+  - Prose
+image: /images/father_mother.jpg
+description: "A Nonfiction Creative Writing piece by David J DeBonis"
 toc:
 ---
 
-Been having trouble sleeping lately? Had a hard time getting out of bed? Here’s how tuning into your circadian rhythm could help you to improve your sleep, heighten your mood, and boost your energy.
+My Father always set the Cuisinart to 4:30 a.m. The Cuisinart always ran just a few minutes fast. When the time had come, the machine would start up by dispensing the coffee beans into the grinder. A few seconds would pass, and then, for a moment, the house would be silent. Then the crunch and grind of beans would fill the house, fading into the whir of the blade as the grounds spilled into the filter. My Father’s house was all hardwood cabinets and hardwood floors—the sound echoed wall to wall. As the hot water percolated through the beans, the aroma of roasted nuts, herbs, and cacao would fill the first floor.
 
-## What is the Circadian Rhythm?
+My Father drank his coffee black, out of tall and slender white Italian mugs. He always bought the Komodo Dragon blend from Starbucks. When he woke up, he would sit on the couch and read the news while drinking his coffee, waiting for the sun to rise. 
 
-The circadian rhythm is the body’s natural cycle. The circadian rhythm influences the regulation of sleep, hormone secretion, body temperature, energy, and other behavioral mechanisms.
+My Father drank dark roast coffee, and he always rose before me. 
 
-The word “circadian” derives from Latin: circa, which means “about,” and dies, which means “day;” thus, the circadian rhythm is about a day in length (1).
+When I first left home, I bought Folgers coffee and brewed it in a stovetop percolator, on a camp stove outside of my van. I missed the taste of the Komodo Dragon blend, and drinking it out of tall and slender, white Italian mugs. When I first left home, I never prayed once. I rose with the sun. I ate three eggs fried over-easy in olive oil, and sipped my coffee, wondering where in God’s name I was going. I looked out over the desert and sweat beads formed on my brow.
 
-Our circadian rhythms are mediated by our “biological clock,” which scientists have discovered is primarily in the suprachiasmatic nucleus (SCN), a bundle of neurons in the hypothalamus (2).
+When I left Zion, my Father surprised me with a Hotel Room in St George. He prepaid for a suite at the Hilton Gardens. I showered and went to the Golden Corral and ate a week’s worth of food in a sitting. I went back to the hotel room and fell asleep for 10 hours, and when I rose I walked down to the lobby, which was filled with the aroma of dark-roast coffee, and the low volume of a news reporter on the television. I drank dark roast coffee out of a nice paper cup, wondering where in God’s name I was going. I returned to the van, to the desert. 
 
-The circadian rhythm is regulated by both internal and external factors:
+![a photograph of the Utah desert - piñon pine](/images/moab_utah_landscape.jpg)
 
-### Internal Regulation
+I drove around the country. I rose each morning at the crack of dawn and drank Folgers coffee on beaches, or day-old gas station coffee out of travel mugs in dense pacific forests. I never prayed once. The sound of the waves was numb, and the thick meshes of deciduous trees taught me of a dreadful silence like I had never known. I spent a week deep in the woods just North of the Colombia river, wondering each night why in God’s name I hadn’t left yet. I began to battle with my sleeplessness, each night petrified to turn into bed. Each night I knew I was up against hours of tossing and turning—hours of staring at the roof of the van. 
 
-The internal processes of the circadian rhythm (in the SCN) are thought to be regulated by the clock gene, which regulates the production of proteins. The time it takes for these proteins to be produced and degraded is the base “unit” of time that our internal circadian rhythm is built from. Much like a second-hand on a clock, the expression of these proteins are the “ticks” of our circadian clock (2).
+I tried to read Lao Tzu’s Tao Te Ching, seeking salvation. Instead I got frustrated when I meditated, and paced through the woods to calm my nerves. 
 
-### External Regulation 
+![a photograph of the deep woods in southwest Washington state](/images/washington_woods.jpg)
 
-The body’s clock is also regulated with external factors called zeitgebers (German: zeit is time, geber is giver) (3). Zeitgebers are external factors that orient the body’s circadian rhythm and essentially ‘set’ the clock (2). The primary zeitgeber is light, however other factors such as food, exercise, and social interactions have also been recognized (4)(5).
+I camped for seven days in Northern Montana. Forests were burning everywhere, and at times the smoke was so dense you couldn’t see 100 yards ahead of you. I went to Glacier National Park but I didn’t see any of the grand views because the smoke was so dense. Half of the forests were burned to pieces. I met a man at Glacier—a fellow rambler named Evan. We camped together for several days. One morning he made me a cup of coffee using an aeropress. The beans were from Seattle, Washington. The coffee was strong and dark, and it reminded me of home.
 
-> The circadian rhythm influences the regulation of sleep, hormone secretion, body temperature, energy, and other behavioral mechanisms.
+![a photograph of a burned down forest in glaicer national forest with mountain sillhouettes in the back of the smoke](/images/glaicer_fire.jpg)
 
-##  Why should we care about the circadian rhythm?
+On the last night we camped together, we parked our vans near a service station down by the train tracks in East Glacier Village. We were just at the precipice of a steep hill that rolled down into a creek about 50 ft below. We walked into town to do some shopping.
 
-Our circadian rhythms are important for regulating many aspects of our daily lives, such as body temperature, energy, and sleep.  
+I wandered into a small diner, and ordered a cup of coffee with a piece of Huckleberry Pie on the side. I thought about Jack Kerouac eating apple pie and ice cream in Iowa at the forefront of his On The Road Journey. I wondered if Kerouac ever thought about his Father while eating apple pie and ice cream, thousands of miles from home.
 
-The circadian rhythm has also been found to elicit a noticeable effect on mood; most people with mood disorders demonstrate disruptions in circadian rhythms (6). The monoamines (serotonin, dopamine, and norepinephrine) are hypothesized to be responsible for mood and anxiety disorders. These neurotransmitters also function on a circadian cycle
+That night Evan and I slept by the tracks, but the trains came through every hour and a half throughout the night. The sound of the whistles and the racket of steel kept me from sleeping time and time again. The next morning we drank coffee by the tracks, then parted ways. I headed South on the 89.
 
-However, in modern society it is difficult for us to synchronize our external circadian factors with our innate, internal rhythm. This is because we are pressed to busy schedules that cause us to sleep, exercise, eat, socialize, and work at odd hours. There is also increased exposure to artificial light combined with decreased exposure to natural daylight, which affects our circadian rhythm and thus our sleep/wake cycles and circadian synchronization.
+![John the Vanagon, my van, and Evan's van down by the train in Northern Montana](/images/vans_by_train.jpg)
 
-> …we are pressed to busy schedules that cause us to sleep, exercise, eat, socialize, and work at odd hours…
+When I arrived in Bozeman, it was raining. I drank sweet Canadian whiskey by the river, and tried to cast my line in the high current. I thought of Jim Harrison’s Drinking Song—it made sense to me. I went to lay down in the van, and it was still raining, a tip-tap tip-tap on the roof. That night I checked into the Hampton Inn, and charged it to my Father’s Amex. I hadn’t slept much for a week. I ate at a Chinese Buffet. The food was good enough. I was amazed, however, at the beauty of a woman who wore a tattoo of some molecule on her chest. I wondered what the molecule was: THC, LSD, DMT, 5-HTP? 
 
-There is evidence to support that desynchronization of external factors (zeitgebers) to internal circadian cycles is potentially harmful to health. Misalignment of these processes could increase the potential for health consequences such as cardiovascular and gastrointestinal diseases, sleep disorders, and even elevated cancer susceptibility (7).
+That night I struggled to sleep again, tossing and turning and tugging at the sheets in the Hampton Inn. The next morning I rose and went to the lobby for coffee and breakfast. The room was comforting, with the décor of a lodge. There was a stone fireplace on the wall, and pinewood log chairs. Late September. I watched the news as I wrote in my journal: wildfires, hurricanes, shootings. I wondered if we really were living in the era of revelation.
 
-Desynchronization of external factors can also interfere with cognition (specifically reaction time, vigilance, motivation, and memory). Studies on rats and hamsters have demonstrated that circadian disruptions (typically light/dark cycles) impair learning and memory (7).
+That evening I went to visit my friend Ross. When I arrived, he was roasting green coffee beans in a toaster-oven sized roaster in his living room. He lived in a small two-bedroom house with his roommate—it couldn’t have been more than 500 sq. ft. The house was filled with the amber smell of roasting beans.
 
- It thus becomes apparent that many potential health benefits could be derived from synchronizing our external factors (zeitgebers) with our bodies’ internal rhythms. This post will propose a potential plan to improve circadian synchronization and thus improve downstream health benefits. Some day deeper analyses will be provided that address these specific health benefits, such as mood and sleep.
- 
-> Increased exposure to artificial light, combined with decreased exposure to natural daylight, damages our circadian synchronization, making it more difficult to fall asleep at night.
+My Father had sent a care package to Ross’s house for me. I don’t remember all of what it contained, but I do remember that it had two pounds of freshly ground Komodo Dragon blend. What a blessing.
 
-## How can I fix my circadian rhythm?
+![My friend Ross preparing food in his kitchen in his tiny house](/images/ross_montana.jpg)
 
-A couple years back I had a conversation with professor Ben Greenwood, who leads the Exercise and Behavioral Neuroscience Lab at the University of Colorado, Denver. He expressed that, after waking up at the same—or at least a similar—time every day is one of the most important activities one can do to improve their cicadian rhythm. He then explained that, after waking up at the same time, many neuroscientists and physiologists have adopted the following habits to improve their circadian rhythm and thus their physical and mental health:
+Ross bought me beer at the grocery store. We took some Kratom that night and we watched a film on Owsley Stanley, the audio-engineer and LSD chemist who worked with the Grateful Dead. That night I battled with that sense of impending doom that had been stalking me for weeks. My heart seemed to jump out of my chest. My hands were sweating—tense and shaky. I wanted to cling to anything I could, but there was not one single thing to grab onto. I could not bare the sense that someday all of this would end—this life, this love, this buzz, this breath. Even in the company of Ross and these people I had come to love, I felt completely alone. I felt alienated in my own skin. I wondered if I’d ever make it home. I wondered if I’d ever get to see my Father again.
 
-1) Exercise (preferably moderate-intense exercise)
+That night it snowed. It was the first snow of the season. 
 
-2) Eat a large meal (frontload a large chunk of calories for that day, if possible)
+![A photo of the montana horizon with clouds and cows](/images/montana_horizon_faded.jpg)
 
-3) Expose yourself to natural daylight
+In the morning, I rose in a sleeping bag on the couch, and Ross made us cappuccinos. He ground the beans he had roasted the day before, and put four shots in each giant cup. The smell of the coffee in the house reminded me of home—it reminded me of waking up to the smell of coffee & my Father sitting on the couch. Ross topped the espresso with foamy, steamed milk. The snow began to melt, so we set out buckets to catch the water leaking from the ceiling.
 
-According to many people in the neuroscience field, if these habits are completed within the first hour or two of awakening, the habits can help synchronize the circadian clock.
+In the evening, we went to a brewery. I felt a lightness in drinking those heavy craft beers. That night we got drunk and ate smoked meats and watched a football game. I sat in the recliner, sipping a glass of Maker’s Mark and thinking of my friends and family back home. I visualized what it would be like when I returned home: driving my Father’s M3, sleeping in a real bed, buying enduros with my best friend David and driving them up to Rampart Range, or maybe coming home to find the love of my life and gazing up at the stars with her on the night of the new moon. I thought of drinking beers by the campfire with my best friends David and Connor and my brother Jack, or roasting coffee on the percolator over the flames. I thought of waking up in the morning and drinking black coffee with my Father. As I sipped from the whiskey that warmed my gut and hazed my mind, relaxed in that giant recliner, I felt a sense of ease and comfort unlike any I had ever known. 
 
- As we saw above, all of these habits are examples of zeitgebers. By exposing yourself to these zeitgebers at the same time every day, your internal circadian rhythm will adapt to synchronize with these zeitgebers, which may help increase your mood and energy levels. More than anything, though, aligning these zeitgebers can help you fall asleep faster, sleep more efficiently, and obtain higher quality sleep (4).
+![A photo of Jack and Connor putting tongues up to snow falling colorado rocky mountains](/images/jack_connor_snow.jpg)
 
- And, regardless of the benefits these practices could have on circadian clock synchronization,  including all of these healthy habits in your day will surely help you to feel better. Exercise helps improve mood, reduce anxiety,  and improves cognition & neurogenesis; eating a large, healthy meal offers sustainable energy; exposure to natural daylight, as we know well, doses us  with vitamin D!
+The next morning, Ross, his roommate, and I drank cappuccinos in the little living room. Ross asked me where I was going next. I told him I was going to head East, but I didn’t know exactly where I’d end up. I asked him for another cappuccino for the road. He made me another cappuccino, then I left, wondering where in God’s name I was going. 
 
- Since this conversation with Dr. Greenwood I have spent a lot of time playing with this thought and experimenting with how different zeitgebers interact with my own sleep/wake cycle. Utilizing the aforementioned recommendation, some research, and anecdotal experience, I have developed a list of things that help to synchronize the circadian rhythm and hence improve overall physical and mental well-being.
- 
-## 1. Wake up at the same time every day
+![A photo of an esperesso machine in Montana](/images/coffee_maker.jpg)
 
-This is a habit that can be hard to develop, especially considering the bounds of our societal habits and responsibilities. Work, school, family obligations, and social participation are all factors that are sometimes out of our control.
+Then, as I drove eastbound down I-90, I watched the signs for the I-25 south exit.
 
-However, I have found that if you wake up consistently within the range of an hour (say, between 5 and 6 a.m.), it can enhance your mood and productivity.
+5 miles. I wondered what it might be like to take that road home. What if I went home now? Haven’t I got the experience I’ve been searching for? Haven’t I learned the lessons I need to learn? I looked out at the front range of the Rocky Mountains, stretching southward as far as the eye could see. 3 miles. Maybe I could just stop home for a few weeks, then head home again. It wouldn’t take me that far out of my way. 1 mile. There’s no way you’d leave again if you went home. ¼ mile. It’s just not time.
 
-## 2. Drink two glasses of water immediately after waking up
+I drove past that exit, wondering where in God’s name I was going, wondering why in God’s name I wasn’t going home. That evening, as I gazed out on the dry rolling hills, I looked upon a lone doe walking by the stream that curled around the highway.
 
-This is something my dad taught me a few years back, and it is something that I try to practice every day. I have no evidence to suggest it has a role in circadian rhythm, but it kick-starts your metabolism and sets your hydration levels off on the right foot.
+Suddenly a memory flashed over me from the week before. On the last full day Evan and I were camping together outside Glacier National Park, we were driving down to that small town by the tracks, planning to make a few stops along the way. At one point I was driving southbound, drifting and floating through the daydreams in my head, and suddenly, as I passed just over a small hill, I was forced to slam on the breaks. Before me, a herd of bighorn sheep were crossing the road. I looked to my right to find an entire forest of burned-up trees, standing tall and barren against the hazy horizon. Interspersed between them were thousands of vibrant green evergreens, no taller than hip-height. The juxtaposition—the cycle of birth and death.
 
-## 3. Expose yourself to natural daylight as soon as you can.
+Then I remembered that someone once told me that some species of pine trees need wildfires to hatch their pinecones so the next generation can grow. If it wasn’t for the fire, there wouldn’t be trees. 
 
-Light is the primary zeitgeber that sets our circadian clocks. Many cases of insomnia can be traced to lack of exposure to natural daylight during the day and too much exposure to artificial light at night!
+I looked ahead to the rolling Montana hills, headed Eastbound down I-90. The sun was setting, and the clouds were smoldering orange and purple. The horizon and the sky seemed to stretch on for eternity. This is why they call Montana God’s country, I suppose.
 
-## 4. Exercise.
+I drove on, wondering where in God’s name I was going to sleep, where in God’s name I would end up. My heart ached for home.
 
-Moderate-intense exercise is always preferred. I like to run a few miles (which—during the summer especially—works swimmingly because then I knock out steps 3 and 4 at the same time). Otherwise I might go to the gym or do a calisthenics workout.
+Someday, some way, I thought, my father and I would be joined again, at home, drinking black coffee out of tall and slender white Italian mugs.
 
-And, even on days when I’m not feeling up to it or I don’t have time, I try to shadowbox for 10 minutes then do some stretching to get my blood flowing.
-
-## 5. Eat a large meal every morning. 
-
-I recommend eating food that burns slow and will last. In my experience, if I eat oatmeal and berries, my blood sugar will spike which will guarantee a crash. I like to eat Paleo and Keto based breakfasts—high in protein and healthy fats—because they help with my physical energy & my cognition.
-
-## 6. Shut the screens and dim the lights in the hour before bed
-
-I’m sure you’ve heard this 100 times, but that’s because it’s true and it works. Too much visual stimulation is a major desynchronizer that will interfere with your ability to fall asleep. I recommend reading by a dim lamp light, listening to an audio book in the dark, or even some light stretching or meditating before turning down to sleep.
-
-## References
-
-References 
-
-(1)   Circadian. (1989). In Oxford English dictionary online (2nd ed.), retrieved from https://oed.com/
-
-(2)   Carlson, N. R. (2014). Foundations of Behavioral Neuroscience (9th ed.). Upper Saddle River: Pearson.
-
-(3)  Zeitgeber. (2018). In Oxford English dictionary online (3rd ed.), retrieved from https://oed.com/
-
-(4)  Monk, T. H. (2010). Enhancing circadian zeitgebers. Sleep, 33, 509-514.
-
-(5)  Stephan, F. K. (2002). The “other” circadian system: Food as a zeitgeber. Journal of biological rhythms, 17(4). 
-
-(6)  McClung, C. A. (2013). How Might Circadian Rhythms Control Mood? Let Me Count the Ways... Biological psychiatry, 74, 242-249.
-
-(7)  Golombek, D. A., Casiraghi, L. P., Agostino, P. V., Paladino, N., Duhard, J. M., Plano, S. A., & Chiesa, J. J. (2013). The times they’re a-changing: Effects of circadian desynchronization on physiology and disease. Journal of physiology—Paris, 107(4), 310-322.
+![pouring coffee into a vintage thermos while camping](/images/coffee_camping.jpg)
