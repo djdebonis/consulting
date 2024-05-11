@@ -168,7 +168,7 @@ params:
         companyUrl: "https://nanobella.com"
         date: "Oct 2020 - present"
         featuredLink:
-          enable: false
+          enable: true
           name: "View the project"
           url: "https://example.com"
         content: "Writing copy for company website and social media platforms; designing ads and managing ad campaigns through Google Ads, Klaviyo (email/SMS marketing), and other providers; managing front-end and back-end infrastructure for company website and POS; managing B2B communications and interfacing with logistics providers; analyzing sales data seeking to understand the efficacy of marketing and business development efforts."
@@ -179,39 +179,48 @@ params:
         date: "Sep 2020 - Dec 2021"
         featuredLink:
           enable: true
+          name: "View the Project"
           url: "https://symposium.foragerone.com/2023-summer/presentations/58498"
         info:
           enable: true
-          content: "Researched prescriptive and descriptive phonetics in Spanish language acquisition; transcribed audio recordings into the International Phonetic Alphabet (IPA) leveraging Praat; wrote python code for string parsing, sequence matching, and comparative data analysis; explored the role of language transfer, as well as explicit instruction in phonemic/phonetic acquisition in L1 English L2 Spanish speakers."
+        content: |
+           Researched prescriptive and descriptive phonetics in Spanish language acquisition; transcribed audio recordings into the International Phonetic Alphabet (IPA) leveraging Praat; wrote python code for string parsing, sequence matching, and comparative data analysis; explored the role of language transfer, as well as explicit instruction in phonemic/phonetic acquisition in L1 English L2 Spanish speakers.
 
       - job: "Professional Writing Consultant"
         company: "CU Denver Writing Center"
         companyUrl: "https://clas.ucdenver.edu/writing-center/"
         date: "Aug 2018 - June 2021"
         info:
-          enable: false
+          enable: true
         featuredLink:
           enable: false
           url: "https://clas.ucdenver.edu/writing-center/"
         content: |
           Taught English writing to cross-disciplinary university students; consulted on writing across diverse genres (e.g. résumés, personal statements, literature reviews, dissertations); developed teacher-training and professional development materials; specialized in second language [writing] acquisition.
 
-
       - job: "Software Developer (Contract)"
         company: "Mind the Grow (Mind the Math)"
-        companyUrl: ""
+        companyUrl: "https://mindthemath.com"
         date: "June 2021 - August 2021"
-        featuredLink:
+        info:
           enable: true
-          url: "https://example.com"
+        featuredLink:
+          enable: false
+          url: "https://clas.ucdenver.edu/writing-center/"
         content: |
           Model and software development for data-driven decision making; developing web apps and interfaces for high-level program userability; writing content, copy, docstrings, & instructions with an emphasis on information accessibility
 
       - job: "Content Writer"
         company: "Mind the Grow (Mind the Math)"
-        companyUrl: ""
+        companyUrl: "https://mindthemath.com"
         date: "June 2019 - August 2019"
-        content: "Content development, research, and copy writing: Edited and developed content in markdown; collaborated and tracked changes with git; built site with Hugo; hosted on Github pages; edited style template with HTML and Java. Researched agricultural practices and extracted data for developing effective agricultural models."
+        featuredLink:
+          enable: true
+          url: "https://example.com"
+        content: | 
+            Content development, research, and copy writing: Edited and developed content in markdown; collaborated and tracked changes with git; built site with Hugo; hosted on Github pages; edited style template with HTML and Java. Researched agricultural practices and extracted data for developing effective agricultural models."
+    
+
 
   # Education
   education:
