@@ -1,6 +1,6 @@
 baseURL: ""
 languageCode: "en-us"
-title: "Terra Firma Consulting"
+title: "David J DeBonis"
 theme: 'hugo-profile'
 
 outputs:
@@ -121,7 +121,7 @@ params:
     title: "David DeBonis"
     subtitle: "I specialize in rhetorical writing and digital storytelling."
     content: ""
-    image: /images/hero.svg
+    image: "/images/david_debonis.jpg"
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -145,7 +145,7 @@ params:
   about:
     enable: true
     title: "About"
-    image: "/images/me.png"
+    image: "/images/david_debonis.jpg"
     content: |-
       I am a writer and digital marketer with a rich background in writing, rhetoric, and content creation. My career has been dedicated to harnessing the power of words to create compelling narratives. With extensive experience in copywriting and digital marketing, I excel at transforming complex ideas into engaging stories that resonate with diverse, targeted audiences.
 
@@ -186,37 +186,32 @@ params:
 
       - job: "Professional Writing Consultant"
         company: "CU Denver Writing Center"
-        companyUrl: "https://example.com"
-        date: "Jan 2020 - Aug 2020"
+        companyUrl: "https://clas.ucdenver.edu/writing-center/"
+        date: "Aug 2018 - June 2021"
         info:
           enable: false
         featuredLink:
           enable: false
-          url: "https://example.com"
+          url: "https://clas.ucdenver.edu/writing-center/"
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          Taught English writing to cross-disciplinary university students; consulted on writing across diverse genres (e.g. résumés, personal statements, literature reviews, dissertations); developed teacher-training and professional development materials; specialized in second language [writing] acquisition.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
 
-      - job: "UI/UX Designer"
-        company: "Netflix"
-        companyUrl: "https://example.com"
-        date: "June 2017 - Nov 2019"
+      - job: "Software Developer (Contract)"
+        company: "Mind the Grow (Mind the Math)"
+        companyUrl: ""
+        date: "June 2021 - August 2021"
         featuredLink:
           enable: true
           url: "https://example.com"
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          Model and software development for data-driven decision making; developing web apps and interfaces for high-level program userability; writing content, copy, docstrings, & instructions with an emphasis on information accessibility
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
-      - job: "Product Designer"
-        company: "Google"
-        companyUrl: "https://example.com"
-        date: "Feb 2016 - Mar 2017"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+      - job: "Content Writer"
+        company: "Mind the Grow (Mind the Math)"
+        companyUrl: ""
+        date: "June 2019 - August 2019"
+        content: "Content development, research, and copy writing: Edited and developed content in markdown; collaborated and tracked changes with git; built site with Hugo; hosted on Github pages; edited style template with HTML and Java. Researched agricultural practices and extracted data for developing effective agricultural models."
 
   # Education
   education:
