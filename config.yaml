@@ -199,7 +199,7 @@ params:
           Taught English writing to cross-disciplinary university students; consulted on writing across diverse genres (e.g. résumés, personal statements, literature reviews, dissertations); developed teacher-training and professional development materials; specialized in second language [writing] acquisition.
 
       - job: "Software Developer (Contract)"
-        company: "Mind the Grow (Mind the Math)"
+        company: "Mind the Grow"
         companyUrl: "https://mindthemath.com"
         date: "June 2021 - August 2021"
         info:
@@ -211,9 +211,11 @@ params:
           Model and software development for data-driven decision making; developing web apps and interfaces for high-level program userability; writing content, copy, docstrings, & instructions with an emphasis on information accessibility
 
       - job: "Content Writer"
-        company: "Mind the Grow (Mind the Math)"
+        company: "Mind the Grow"
         companyUrl: "https://mindthemath.com"
         date: "June 2019 - August 2019"
+        info:
+          enable: true
         featuredLink:
           enable: true
           url: "https://example.com"
