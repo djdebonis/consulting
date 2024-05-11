@@ -9,7 +9,7 @@ tags:
   - Sample
   - example
 image: /images/debonis_brothers.jpg
-description: ""
+description: "In 1936, my great-great-grandfather shot the town sheriff in the village of Miglionico. And so, in 1936, my great-great-grandfather left on a ship to America…"
 toc:
 ---
 
