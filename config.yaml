@@ -253,9 +253,8 @@ params:
   # Achievements
   achievements:
     enable: true
-    # title: "Custom Name"
+    title: "Skills & Softwares"
     items:
-      - title: Google kickstart runner
         content: I solved all problems with optimal solution.
         url: https://example.com
       - title: Facebook Hackathon Winner
