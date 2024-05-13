@@ -8,7 +8,7 @@ galleryImages:
  - src: /images/mountains_calling_film.jpg
  - src: /images/film/film_colors.jpg
  - src: /images/film/gothic_pass_fall_film.jpg
- - src: /images/film/sumac_fall2.jpg
+ - src: /images/film/sumac_film2.jpg
  - src: /images/film/crossing_stream_film.jpg
  - src: /images/film/paradise.jpg 
 ---
