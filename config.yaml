@@ -253,20 +253,20 @@ params:
   # Achievements
   achievements:
     enable: true
-    title: "Skills & Softwares"
+    title: "Skills & Software Experience"
     items:
       - title: Marketing Platforms
-        content: GoHighLevel, Shopify, Klaviyo (ESP), Facebook Meta / Ads Manager, Google Ads
+        content: GoHighLevel, Shopify, Klaviyo (ESP)
         url: https://example.com
-      - title: Facebook Hackathon Winner
-        content: Developed a product using Artificial Intelligence.
-      - title: Hugo Profile
-        content: Developed a theme and getting 1K+ downloads per month.
-        url: "https://github.com/gurusabarish/hugo-profile"
-      - title: Microsoft Imagine Runner
-        content: We are developed a product which can help others.
-      - title: Google Summer of Code
-        content: Contributed to a open source project.
+      - title: Ads Management Platforms
+        content: Facebook Meta / Ads Manager, Google Ads, X Ads
+      - title: Computational Languages
+        content: Python, Markdown, Git/Git Track Changes, Github
+        url: "https://github.com/djdebonis"
+      - title: Design & Editing Softwares
+        content: Canva, Adobe Illustrator, Adobe Photoshop
+      - title: Other Platforms & Softwares
+        content: Wordpress, Squarespace, Microsoft Office, Hugo
         url: https://example.com
 
   # projects
