@@ -235,6 +235,7 @@ params:
           name: "University of Colorado, Denver"
           url: "https://ucdenver.edu"
         date: "2023 - Present"
+        content: "I am currently 2 semesters into my Masters of Marketing at the University of Colorado, Denver."
        
       - title: "B.A. English Writing, Minor in Linguistics"
         school:
@@ -317,7 +318,7 @@ params:
   contact:
     enable: true
     # title: "Custom Name"
-    content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
+    content: My inbox is always open. Whether you have a question or just want to connect, you can reach me at davidjdebonis@gmail.com.
     email: davidjdebonis@gmail.com
     btnName: Mail me
     # formspree:
