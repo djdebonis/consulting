@@ -36,7 +36,7 @@ The body’s clock is also regulated with external factors called zeitgebers (Ge
 
 > The circadian rhythm influences the regulation of sleep, hormone secretion, body temperature, energy, and other behavioral mechanisms.
 
-![how to sleep better circadian rhythm sunset](/images/how_do_i_sleep_better_circadian_rhythm.jpeg)
+![how to sleep better circadian rhythm sunset](/images/projects/how_do_i_sleep_better_circadian_rhythm.jpeg)
 
 ##  Why should we care about the circadian rhythm?
 
@@ -66,7 +66,7 @@ A couple years back I had a conversation with professor Ben Greenwood, who leads
 
 3) Expose yourself to natural daylight
 
-![how can i align and fix my circadian rhythm watching sunset in mountains](/images/best_ways_improve_circadian_rhythm.jpeg)
+![how can i align and fix my circadian rhythm watching sunset in mountains](/images/projects/best_ways_improve_circadian_rhythm.jpeg)
 
 According to many people in the neuroscience field, if these habits are completed within the first hour or two of awakening, the habits can help synchronize the circadian clock.
 
