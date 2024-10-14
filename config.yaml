@@ -169,8 +169,8 @@ params:
         date: "Oct 2020 - present"
         featuredLink:
           enable: true
-          name: "View the project"
-          url: "https://example.com"
+          name: "View Nano CBG Project"
+          url: "https://nanobella.com"
         content: "Writing copy for company website and social media platforms; marketing highly effective Nano CBG products; designing ads and managing ad campaigns through Google Ads, Klaviyo (email/SMS marketing), and other providers; managing front-end and back-end infrastructure for company website and POS; managing B2B communications and interfacing with logistics providers; analyzing sales data seeking to understand the efficacy of marketing and business development efforts."
 
       - job: "Research Assistant"
@@ -277,7 +277,7 @@ params:
     items:
       - title: Nano CBG Development
         content: I helped complete research of nanoemulsion for Nano CBG with Nano Bella.
-        image: /images/projects/nano_hemp_nanoemulsion_visual.png
+        image: /images/nano_hemp_nanoemulsion_visual.png
         featured:
           name: Nano CBG
           link: https://nanobella.com/blogs/blog/nano-hemp-a-guide-to-nano-cbg-nano-cbd-and-nanoemulsified-cannabinoids
