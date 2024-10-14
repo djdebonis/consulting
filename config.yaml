@@ -171,7 +171,7 @@ params:
           enable: true
           name: "View the project"
           url: "https://example.com"
-        content: "Writing copy for company website and social media platforms; designing ads and managing ad campaigns through Google Ads, Klaviyo (email/SMS marketing), and other providers; managing front-end and back-end infrastructure for company website and POS; managing B2B communications and interfacing with logistics providers; analyzing sales data seeking to understand the efficacy of marketing and business development efforts."
+        content: "Writing copy for company website and social media platforms; marketing highly effective Nano CBG products; designing ads and managing ad campaigns through Google Ads, Klaviyo (email/SMS marketing), and other providers; managing front-end and back-end infrastructure for company website and POS; managing B2B communications and interfacing with logistics providers; analyzing sales data seeking to understand the efficacy of marketing and business development efforts."
 
       - job: "Research Assistant"
         company: "CU Denver Modern Languages"
@@ -258,7 +258,7 @@ params:
     items:
       - title: Marketing Platforms
         content: GoHighLevel, Shopify, Klaviyo (ESP)
-        url: https://example.com
+        url: "https://davidjdebonis.info"
       - title: Ads Management Platforms
         content: Facebook Meta / Ads Manager, Google Ads, X Ads
       - title: Computational Languages
@@ -268,19 +268,19 @@ params:
         content: Canva, Adobe Illustrator, Adobe Photoshop
       - title: Other Platforms & Softwares
         content: Wordpress, Squarespace, Microsoft Office, Hugo
-        url: https://example.com
+        url: "https://davidjdebonis.info"
 
   # projects
   projects:
     enable: true
     # title: "Custom Name"
     items:
-      - title: IPA Vowel Compare
-        content: A software project applied to a pilot study regarding Spanish phoneme production by Spanish Lanugae Learners.
+      - title: Nano CBG Development
+        content: I helped complete research of nanoemulsion for Nano CBG with Nano Bella.
         image: /images/projects/vowel_accuracy_formal_lang_instruct.png
         featured:
-          name: View the Project
-          link: https://github.com/djdebonis/IPA_vowel_compare.git
+          name: Nano CBG
+          link: https://nanobella.com/blogs/blog/nano-hemp-a-guide-to-nano-cbg-nano-cbd-and-nanoemulsified-cannabinoids
         badges:
           - "Spanish Language Writing"
           - "Linguistics Research"
