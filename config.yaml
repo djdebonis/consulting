@@ -277,17 +277,17 @@ params:
     items:
       - title: Nano CBG Development
         content: I helped complete research of nanoemulsion for Nano CBG with Nano Bella.
-        image: /images/projects/vowel_accuracy_formal_lang_instruct.png
+        image: /images/projects/nano_hemp_nanoemulsion_visual.png
         featured:
           name: Nano CBG
           link: https://nanobella.com/blogs/blog/nano-hemp-a-guide-to-nano-cbg-nano-cbd-and-nanoemulsified-cannabinoids
         badges:
-          - "Spanish Language Writing"
-          - "Linguistics Research"
-          - "Python Software Development"
+          - "Nano Hemp Research"
+          - "Nano CBG Research"
+          - "Nano CBD Research"
         links:
           - icon: fab fa-github
-            url: https://github.com/djdebonis/IPA_vowel_compare.git
+            url: https://nanobella.com/blogs/blog/what-is-nano-cbg-a-comprehensive-guide
         
       - title: Cafelytics
         content: A basic simulation of a coffee operation.
@@ -337,7 +337,7 @@ params:
     socialNetworks:
       github: https://github.com/djdebonis
       linkedin: https://www.linkedin.com/in/djdebonis/
-      instagram: https://instagram.com
+      instagram: https://instagram.com/davidjdebonis
 
   # List pages like blogs and posts
   listPages:
