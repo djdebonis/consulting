@@ -306,8 +306,8 @@ params:
         content: An example of a science communication writing piece I composed about the Circadian Rhythm.
         image: /images/projects/grass_nap.jpg
         featured:
-          name: View an Article
-          link: https://synthesiscolorado.com/articles/neuroscience/circadian-rhythm
+          name: View Article
+          link: https://seekingsynthesis.com/align-your-circadian-rhythm-to-optimize-your-health/
         badges:
           - "Copywriting"
           - "Writing & Rhetoric"
