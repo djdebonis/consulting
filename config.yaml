@@ -163,23 +163,6 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-    
-     - job: "Startup and Small Business Freelance Work"
-        company: ""
-        companyUrl: ""
-        date: "Oct 2021 - Present"
-        featuredLink:
-          enable: true
-          name: "View the Project"
-          url: "https://symposium.foragerone.com/2023-summer/presentations/58498"
-        info:
-          enable: true
-        content: |
-           Develop marketing strategy, produce marketing materials, and analyze business data across diverse industries including healthcare, construction, and CPG—tailoring messaging to segmented audiences.
-           Lead rebranding and Shopify web development projects for small businesses and startups—aligning visual identity, mission, and messaging to market growth goals.
-           Optimize email, paid search, paid social campaigns (Google, Meta, Tiktok, and X ads) by analyzing performance data, A/B Split Testing, and refining ad copy, targeting, and bidding strategies to maximize ROI.
-           Develop analytics reports to help clients understand marketing performance and make informed decisions.
-           Manage multi-client projects and campaigns simultaneously, prioritizing deliverables and deadlines.
 
       - job: "Director of Marketing & Operations"
         company: "Nano Bella"
