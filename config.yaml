@@ -119,7 +119,7 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "David DeBonis"
-    subtitle: "I specialize in digital storytelling, rhetorical writing, and data-driven marketing."
+    subtitle: "I specialize in business operations, design thinking, and data-driven marketing."
     content: ""
     image: "/images/david_debonis.jpg"
     bottomImage:
@@ -163,15 +163,32 @@ params:
     enable: true
     # title: "Custom Name"
     items:
+     - job: "Startup and Small Business Freelance Work"
+        company: ""
+        companyUrl: ""
+        date: "Oct 2021 - Present"
+        featuredLink:
+          enable: true
+          name: "View the Project"
+          url: "https://symposium.foragerone.com/2023-summer/presentations/58498"
+        info:
+          enable: true
+        content: |
+           Develop marketing strategy, produce marketing materials, and analyze business data across diverse industries including healthcare, construction, and CPG—tailoring messaging to segmented audiences.
+           Lead rebranding and Shopify web development projects for small businesses and startups—aligning visual identity, mission, and messaging to market growth goals.
+           Optimize email, paid search, paid social campaigns (Google, Meta, Tiktok, and X ads) by analyzing performance data, A/B Split Testing, and refining ad copy, targeting, and bidding strategies to maximize ROI.
+           Develop analytics reports to help clients understand marketing performance and make informed decisions.
+           Manage multi-client projects and campaigns simultaneously, prioritizing deliverables and deadlines.
+
       - job: "Director of Marketing & Operations"
         company: "Nano Bella"
         companyUrl: "https://nanobella.com"
-        date: "Oct 2020 - present"
+        date: "Oct 2021 - July 2024"
         featuredLink:
           enable: true
-          name: "View Nano CBG Project"
+          name: "View Project"
           url: "https://nanobella.com"
-        content: "Writing copy for company website and social media platforms; marketing highly effective Nano CBG products; designing ads and managing ad campaigns through Google Ads, Klaviyo (email/SMS marketing), and other providers; managing front-end and back-end infrastructure for company website and POS; managing B2B communications and interfacing with logistics providers; analyzing sales data seeking to understand the efficacy of marketing and business development efforts."
+        content: "Designed and built company website on Shopify, leveraging plugins and custom code to enhance UX; Designed ads and managed ad campaigns through Google Ads, Klaviyo (email/SMS), and other providers; Analyzed marketing & sales data to understand and communicate the efficacy of business efforts."
 
       - job: "Research Assistant"
         company: "CU Denver Modern Languages"
@@ -198,9 +215,9 @@ params:
         content: |
           Taught English writing to cross-disciplinary university students; consulted on writing across diverse genres (e.g. résumés, personal statements, literature reviews, dissertations); developed teacher-training and professional development materials; specialized in second language [writing] acquisition.
 
-      - job: "Software Developer (Contract)"
-        company: "Mind the Grow"
-        companyUrl: "https://mindthemath.com"
+      - job: "Marketing Specialist"
+        company: ""
+        companyUrl: ""
         date: "June 2021 - August 2021"
         info:
           enable: true
@@ -208,7 +225,10 @@ params:
           enable: false
           url: "https://clas.ucdenver.edu/writing-center/"
         content: |
-          Model and software development for data-driven decision making; developing web apps and interfaces for high-level program userability; writing content, copy, docstrings, & instructions with an emphasis on information accessibility
+         Plan and execute marketing strategies to showcase machine learning, AI, and data analytics research tools; 
+         Create and optimize technical content to translate complex biomedical informatics and health AI research;
+         Design branded assets, social media campaigns, and visualizations to highlight research impact;
+         Collaborate with faculty, developers, and data scientists to communicate technical features to all audiences.
 
       - job: "Content Writer"
         company: "Mind the Grow"
@@ -235,7 +255,7 @@ params:
           name: "University of Colorado, Denver"
           url: "https://ucdenver.edu"
         date: "2023 - Present"
-        content: "I am currently 2 semesters into my Masters of Marketing at the University of Colorado, Denver."
+        content: "In May 2026 I will complete my M.S. in Marketing with a specialization in Marketing Strategy in the 21st Century"
        
       - title: "B.A. English Writing, Minor in Linguistics"
         school:
@@ -275,12 +295,12 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Nano CBG Development
-        content: I helped complete research of nanoemulsion for Nano CBG with Nano Bella.
+      - title: Nano Bella
+        content: I developed the Nano Bella company website and marketing systems.
         image: /images/nano_hemp_nanoemulsion_visual.png
         featured:
           name: Nano CBG
-          link: https://nanobella.com/blogs/blog/nano-hemp-a-guide-to-nano-cbg-nano-cbd-and-nanoemulsified-cannabinoids
+          link: https://nanobella.com/
         badges:
           - "Nano Hemp Research"
           - "Nano CBG Research"
