@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Creative Writing on David J DeBonis</title>
+    <link>//localhost:1313/tags/creative-writing/</link>
+    <description>Recent content in Creative Writing on David J DeBonis</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Oct 2022 23:29:21 +0530</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/creative-writing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Black Coffee and the Prodigal Son</title>
+      <link>//localhost:1313/blogs/black_coffee/</link>
+      <pubDate>Sat, 15 Oct 2022 23:29:21 +0530</pubDate>
+      <guid>//localhost:1313/blogs/black_coffee/</guid>
+      <description>My Father always set the Cuisinart to 4:30 a.m. The Cuisinart always ran just a few minutes fast. When the time had come, the machine would start up by dispensing the coffee beans into the grinder. A few seconds would pass, and then, for a moment, the house would be silent. Then the crunch and grind of beans would fill the house, fading into the whir of the blade as the grounds spilled into the filter.</description>
+    </item>
+  </channel>
+</rss>
