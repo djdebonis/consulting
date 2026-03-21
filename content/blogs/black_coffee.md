@@ -72,7 +72,7 @@ The next morning, Ross, his roommate, and I drank cappuccinos in the little livi
 
 Then, as I drove eastbound down I-90, I watched the signs for the I-25 south exit.
 
-5 miles. I wondered what it might be like to take that road home. What if I went home now? Haven’t I got the experience I’ve been searching for? Haven’t I learned the lessons I need to learn? I looked out at the front range of the Rocky Mountains, stretching southward as far as the eye could see. 3 miles. Maybe I could just stop home for a few weeks, then head home again. It wouldn’t take me that far out of my way. 1 mile. There’s no way you’d leave again if you went home. ¼ mile. It’s just not time.
+5 miles. I wondered what it might be like to take that road home. What if I went home now? Haven’t I got the experience I’ve been searching for? Haven’t I learned the lessons I need to learn? I looked out at the front range of the Rocky Mountains, stretching southward as far as the eye could see. 3 miles. Maybe I could just stop home for a few weeks, then head out on the road again. It wouldn’t take me that far out of my way. 1 mile. There’s no way you’d leave again if you went home. ¼ mile. It’s just not time.
 
 I drove past that exit, wondering where in God’s name I was going, wondering why in God’s name I wasn’t going home. That evening, as I gazed out on the dry rolling hills, I looked upon a lone doe walking by the stream that curled around the highway.
 
