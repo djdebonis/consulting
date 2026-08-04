@@ -255,7 +255,7 @@ params:
 
   # Achievements
   achievements:
-    enable: true
+    enable: false
     title: "Skills & Software Experience"
     items:
       - title: Marketing Platforms
@@ -277,19 +277,19 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Nano Bella
-        content: I developed the Nano Bella company website and marketing systems while supporting science communication efforts.
+      - title: Department of Biomedical Informatics
+        content: Supported communication efforts in bioinformatics, clinical informatics, and biomedical research discovery.
         image: /images/nano_hemp_nanoemulsion_visual.png
         featured:
-          name: Nano CBG
-          link: https://nanobella.com/
+          name: View the Projects on the DBMI Newsroom
+          link: https://news.cuanschutz.edu/dbmi/author/david-debonis
         badges:
-          - "Nano Hemp Research"
-          - "Nano CBG Research"
-          - "Nano CBD Research"
+          - "Science Communication"
+          - "Biomedical Research"
+          - "Writing and Journalism"
         links:
           - icon: fab fa-github
-            url: https://nanobella.com/blogs/blog/what-is-nano-cbg-a-comprehensive-guide
+            url: https://news.cuanschutz.edu/dbmi/author/david-debonis
         
       - title: Cafelytics
         content: Supported the development of a computational simulation of a coffee operation based on data collected in Guatemala.
@@ -304,16 +304,16 @@ params:
           - icon: fab fa-github
             url: https://github.com/djdebonis/cafelytics
 
-      - title: Science Communication Writings
-        content: An example of a science communication writing piece I composed about the Circadian Rhythm.
+      - title: Synthesis Health Systems Journal
+        content: Learn more about natural health, rewilding, and more.
         image: /images/projects/grass_nap.jpg
         featured:
-          name: View Article
-          link: https://seekingsynthesis.com/align-your-circadian-rhythm-to-optimize-your-health/
+          name: View the Journal
+          link: https://synthesishealthsystems.com/
         badges:
-          - "Copywriting"
-          - "Writing & Rhetoric"
-          - "Blog Writing"
+          - "Science Communication"
+          - "Natural Health Science"
+          - "Rewilding and Ancestral Health"
         links:
 
   #Contact
