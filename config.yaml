@@ -147,13 +147,15 @@ params:
     title: "About"
     image: "/images/david_debonis.jpg"
     content: |-
-      I am a writer, storyteller, digital marketer, and communications professional specializing in promoting brands through diverse, multimedia content.
+      I am a writer, researcher, storyteller, and science communicator focused on linguistic discovery, biomedical research, and natural health education.
 
     skills:
       enable: true
       title: "Here are a few highlights about my experience:"
       items:
         - "B.A. in English Writing and Linguistics"
+        - "M.S. in Marketing and Communications"
+        - "Certified Personal Trainer (NASM-CPT) and Health Coach"
         - "7+ Years Experience with Technical, Academic, and Journalistic Writing"
 
   # Experience
@@ -232,12 +234,12 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "M.S. Marketing - In Progress"
+      - title: "M.S. Marketing and Communications"
         school:
           name: "University of Colorado, Denver"
           url: "https://ucdenver.edu"
-        date: "2023 - Present"
-        content: "In May 2026 I will complete my M.S. in Marketing with a specialization in Marketing Strategy in the 21st Century"
+        date: "2023 - 226"
+        content: ""
        
       - title: "B.A. English Writing, Minor in Linguistics"
         school:
