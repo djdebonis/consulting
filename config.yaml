@@ -154,9 +154,6 @@ params:
       title: "Here are a few highlights about my experience:"
       items:
         - "B.A. in English Writing and Linguistics"
-        - "5+ Years Experience with Copywriting and Web Content Development"
-        - "4+ Years Experience with Social Media Content Creation"
-        - "4+ Years Experience working in Marketing"
         - "7+ Years Experience with Technical, Academic, and Journalistic Writing"
 
   # Experience
@@ -164,8 +161,26 @@ params:
     enable: true
     # title: "Custom Name"
     items:
+    - job: "Marketing, Communications, and Events Coordinator"
+      company: "Department of Biomedical Informatics at CU Anschutz"
+      companyUrl: "https://medschool.cuanschutz.edu/dbmi"
+      date: "June 2021 - August 2021"
+      info:
+        enable: true
+      featuredLink:
+        enable: true
+        name: "Learn More"
+        url: "https://medschool.cuanschutz.edu/dbmi"
+        content: |
+         Develop and execute marketing strategies to showcase biomedical informatics and AI research initiatives
+         Write and edit newsroom articles, blog posts, web content, and social media communications translating complex research into accessible public-facing stories
+         Manage newsroom posts on Hubspot and website content updates on Sitefinity to optimize for SEO/GEO and strengthen the department’s online presence and audience engagement
+         Support design of visual marketing assets and promotional materials for research initiatives, events, and programs
+         Collaborate with researchers, healthcare workers, and scientists to communicate technical features to all audiences
+         Align all communications with CU Anschutz brand standards, including AP Style
+         Lead DBMI Wall of Software (WOS) promotional initiative, highlighting WOS tools across channels
 
-      - job: "Director of ECommerce Operations and  Lead Ecommerce Marketer"
+      - job: "Director of E-Commerce Operations and Product Education"
         company: "Nano Bella"
         companyUrl: "https://nanobella.com"
         date: "Oct 2021 - July 2024"
@@ -174,10 +189,8 @@ params:
           name: "View Project"
           url: "https://nanobella.com"
         content: |
-          Designed and built company website on Shopify, leveraging plugins and custom code to enhance UX; 
-          Designed ads and managed ad campaigns through Google Ads, Klaviyo (email/SMS), and other providers; 
-          Leveraged science communication skillsets to translate complex scientific product attributes (phase-inversion nanoemulsification, molecule-binding) into clear value propositions for lay audiences; 
-          Analyzed marketing & sales data to understand and communicate the efficacy of business efforts."
+          Supported the development of new initiatives in science-backed health product, emphasizing Direct to Consumer (DTC)
+          marketing and project education efforts. Led initiatives in web development, product education, email marketing, and more.
 
       - job: "Research Assistant"
         company: "CU Denver Modern Languages"
@@ -210,23 +223,7 @@ params:
           developed teacher-training and professional development materials; 
           specialized in second language [writing] acquisition.
 
-      - job: "Marketing Specialist"
-        company: ""
-        companyUrl: ""
-        date: "June 2021 - August 2021"
-        info:
-          enable: true
-        featuredLink:
-          enable: false
-          url: "https://clas.ucdenver.edu/writing-center/"
-        content: |
-         Develop and execute marketing strategies to showcase biomedical informatics and AI research initiatives
-         Write and edit newsroom articles, blog posts, web content, and social media communications translating complex research into accessible public-facing stories
-         Manage newsroom posts on Hubspot and website content updates on Sitefinity to optimize for SEO/GEO and strengthen the department’s online presence and audience engagement
-         Support design of visual marketing assets and promotional materials for research initiatives, events, and programs
-         Collaborate with researchers, healthcare workers, and scientists to communicate technical features to all audiences
-         Align all communications with CU Anschutz brand standards, including AP Style
-         Lead DBMI Wall of Software (WOS) promotional initiative, highlighting WOS tools across channels
+ 
 
 
   # Education
