@@ -181,8 +181,8 @@ params:
          Collaborate with researchers, healthcare workers, and scientists to communicate technical features to all audiences
          Align all communications with CU Anschutz brand standards, including AP Style
          Lead DBMI Wall of Software (WOS) promotional initiative, highlighting WOS tools across channels
-
-      - job: "Director of E-Commerce Operations and Product Education"
+         
+    - job: "Director of E-Commerce Operations and Product Education"
         company: "Nano Bella"
         companyUrl: "https://nanobella.com"
         date: "Oct 2021 - July 2024"
@@ -194,7 +194,7 @@ params:
           Supported the development of new initiatives in science-backed health product, emphasizing Direct to Consumer (DTC)
           marketing and project education efforts. Led initiatives in web development, product education, email marketing, and more.
 
-      - job: "Research Assistant"
+    - job: "Research Assistant"
         company: "CU Denver Modern Languages"
         companyUrl: "https://symposium.foragerone.com/2023-summer/presentations/58498"
         date: "Sep 2020 - Dec 2021"
@@ -210,7 +210,7 @@ params:
            wrote python code for string parsing, sequence matching, and comparative data analysis; 
            explored the role of language transfer, as well as explicit instruction in phonemic/phonetic acquisition in L1 English L2 Spanish speakers.
 
-      - job: "Professional Writing Consultant"
+    - job: "Professional Writing Consultant"
         company: "CU Denver Writing Center"
         companyUrl: "https://clas.ucdenver.edu/writing-center/"
         date: "Aug 2018 - June 2021"
