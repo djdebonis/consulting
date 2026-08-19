@@ -14,6 +14,8 @@ description: "The Circadian Rhythm is the body & brain’s biological clock. Alt
 toc:
 ---
 
-Been having trouble sleeping lately? Had a hard time getting out of bed? Here’s how tuning into your circadian rhythm could help you to improve your sleep, heighten your mood, and boost your energy. [View the full article about aligning the circadian rhythm here](https://seekingsynthesis.com/align-your-circadian-rhythm-to-optimize-your-health/)
+Been having trouble sleeping lately? Had a hard time getting out of bed? Here's how tuning into your circadian rhythm could help you improve your sleep, heighten your mood, and boost your energy. [Read the full article about aligning your circadian rhythm](https://synthesishealthsystems.com/blogs/education/align-your-circadian-rhythm).
+
+
 
 

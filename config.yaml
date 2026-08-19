@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://davidjdebonis.info/"
 languageCode: "en-us"
 title: "David J DeBonis"
 theme: 'hugo-profile'
@@ -24,6 +24,11 @@ markup:
 
 Menus:
   main:
+    - identifier: about-david-debonis
+      name: About David
+      title: About David DeBonis
+      url: /about-david-debonis/
+      weight: 0
     - identifier: blog
       name: Blog
       title: Blog posts
@@ -54,7 +59,16 @@ Menus:
 
 params:
   title: "David J DeBonis"
-  description: A Resume and Portfolio of David J DeBonis
+  description: Researcher, science communicator, health coach, and personal trainer
+  author:
+    name: "David DeBonis"
+    alternateName: "David J. DeBonis"
+    jobTitle: "Researcher and Science Communicator"
+    image: "/images/david_debonis.jpg"
+    sameAs:
+      - "https://www.linkedin.com/in/djdebonis/"
+      - "https://github.com/djdebonis"
+      - "https://synthesishealthsystems.com/blogs/education"
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
 
@@ -101,8 +115,8 @@ params:
   # If you want to customize the menu, you can change it here
   navbar:
     align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
-    # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
-    # showBrandLogo: false # Show brand logo in nav bar | default is true
+    brandLogo: "/djd_logo.png"
+    showBrandLogo: true
     brandName: "David J DeBonis" # Brand name for the brand | default is the title variable
     disableSearch: false
     # searchPlaceholder: "Search"
@@ -119,9 +133,10 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "David DeBonis"
-    subtitle: "I specialize in storytelling, digital marketing, and science communication."
-    content: ""
+    subtitle: "I translate research into clearer ideas, healthier decisions, and meaningful action."
+    content: "Researcher, science communicator, health coach, and personal trainer working across biomedical research, linguistics, health education, and evidence-informed storytelling."
     image: "/images/david_debonis.jpg"
+    imageAlt: "David DeBonis outdoors"
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -146,17 +161,24 @@ params:
     enable: true
     title: "About"
     image: "/images/david_debonis.jpg"
+    imageAlt: "David DeBonis"
     content: |-
-      I am a writer, researcher, storyteller, and science communicator focused on linguistic discovery, biomedical research, and natural health education.
+      I am a researcher and science communicator interested in how people understand complex information and use it to change their lives. My work sits at the intersection of biomedical research, linguistics, health education, and writing.
+
+      At the Department of Biomedical Informatics at CU Anschutz, I helped communicate work in bioinformatics, clinical informatics, artificial intelligence, and research discovery. I also bring a practical health perspective as a certified personal trainer and health coach, with an interest in helping people build sustainable relationships with movement, recovery, and everyday health.
+
+      Marketing is part of my toolkit, but it is not the whole story. I use strategy, writing, data, and digital systems to make useful ideas more accessible and more actionable.
 
     skills:
       enable: true
-      title: "Here are a few highlights about my experience:"
+      title: "Areas of practice"
       items:
         - "B.A. in English Writing and Linguistics"
         - "M.S. in Marketing and Communications"
-        - "Certified Personal Trainer (NASM-CPT) and Health Coach"
-        - "7+ Years Experience with Technical, Academic, and Journalistic Writing"
+        - "Biomedical research and science communication"
+        - "Certified Personal Trainer (NASM-CPT) and health coach"
+        - "Technical, academic, and journalistic writing"
+        - "Data analysis, computational research, and digital strategy"
 
   # Experience
   experience:
@@ -174,56 +196,54 @@ params:
         name: "Learn More"
         url: "https://medschool.cuanschutz.edu/dbmi"
         content: |
-         Develop and execute marketing strategies to showcase biomedical informatics and AI research initiatives
-         Write and edit newsroom articles, blog posts, web content, and social media communications translating complex research into accessible public-facing stories
-         Manage newsroom posts on Hubspot and website content updates on Sitefinity to optimize for SEO/GEO and strengthen the department’s online presence and audience engagement
-         Support design of visual marketing assets and promotional materials for research initiatives, events, and programs
-         Collaborate with researchers, healthcare workers, and scientists to communicate technical features to all audiences
-         Align all communications with CU Anschutz brand standards, including AP Style
-         Lead DBMI Wall of Software (WOS) promotional initiative, highlighting WOS tools across channels
+         Communicate biomedical informatics, clinical informatics, and artificial intelligence research for public and professional audiences
+         Write and edit newsroom articles, blog posts, web content, and social media communications that translate complex research into clear stories
+         Collaborate with researchers, healthcare workers, and scientists to explain technical work without losing its meaning or rigor
+         Support research initiatives, events, and programs through editorial planning, visual communication, and digital publishing
+         Lead the DBMI Wall of Software (WOS) promotional initiative, highlighting research tools and their applications across channels
          
     - job: "Director of E-Commerce Operations and Product Education"
-        company: "Nano Bella"
-        companyUrl: "https://nanobella.com"
-        date: "Oct 2021 - July 2024"
-        featuredLink:
-          enable: true
-          name: "View Project"
-          url: "https://nanobella.com"
-        content: |
-          Supported the development of new initiatives in science-backed health product, emphasizing Direct to Consumer (DTC)
-          marketing and project education efforts. Led initiatives in web development, product education, email marketing, and more.
+      company: "Nano Bella"
+      companyUrl: "https://nanobella.com"
+      date: "Oct 2021 - July 2024"
+      featuredLink:
+        enable: true
+        name: "View Project"
+        url: "https://nanobella.com"
+      content: |
+        Supported the development of new initiatives in science-backed health product, emphasizing Direct to Consumer (DTC)
+        marketing and project education efforts. Led initiatives in web development, product education, email marketing, and more.
 
     - job: "Research Assistant"
-        company: "CU Denver Modern Languages"
-        companyUrl: "https://symposium.foragerone.com/2023-summer/presentations/58498"
-        date: "Sep 2020 - Dec 2021"
-        featuredLink:
-          enable: true
-          name: "View the Project"
-          url: "https://symposium.foragerone.com/2023-summer/presentations/58498"
-        info:
-          enable: true
-        content: |
-           Researched prescriptive and descriptive phonetics in Spanish language acquisition; 
-           transcribed audio recordings into the International Phonetic Alphabet (IPA) leveraging Praat; 
-           wrote python code for string parsing, sequence matching, and comparative data analysis; 
-           explored the role of language transfer, as well as explicit instruction in phonemic/phonetic acquisition in L1 English L2 Spanish speakers.
+      company: "CU Denver Modern Languages"
+      companyUrl: "https://symposium.foragerone.com/2023-summer/presentations/58498"
+      date: "Sep 2020 - Dec 2021"
+      featuredLink:
+        enable: true
+        name: "View the Project"
+        url: "https://symposium.foragerone.com/2023-summer/presentations/58498"
+      info:
+        enable: true
+      content: |
+        Researched prescriptive and descriptive phonetics in Spanish language acquisition;
+        transcribed audio recordings into the International Phonetic Alphabet (IPA) leveraging Praat;
+        wrote python code for string parsing, sequence matching, and comparative data analysis;
+        explored the role of language transfer, as well as explicit instruction in phonemic/phonetic acquisition in L1 English L2 Spanish speakers.
 
     - job: "Professional Writing Consultant"
-        company: "CU Denver Writing Center"
-        companyUrl: "https://clas.ucdenver.edu/writing-center/"
-        date: "Aug 2018 - June 2021"
-        info:
-          enable: true
-        featuredLink:
-          enable: false
-          url: "https://clas.ucdenver.edu/writing-center/"
-        content: |
-          Taught English writing to cross-disciplinary university students; 
-          consulted on writing across diverse genres (e.g. résumés, personal statements, literature reviews, dissertations); 
-          developed teacher-training and professional development materials; 
-          specialized in second language [writing] acquisition.
+      company: "CU Denver Writing Center"
+      companyUrl: "https://clas.ucdenver.edu/writing-center/"
+      date: "Aug 2018 - June 2021"
+      info:
+        enable: true
+      featuredLink:
+        enable: false
+        url: "https://clas.ucdenver.edu/writing-center/"
+      content: |
+        Taught English writing to cross-disciplinary university students;
+        consulted on writing across diverse genres (e.g. résumés, personal statements, literature reviews, dissertations);
+        developed teacher-training and professional development materials;
+        specialized in second language [writing] acquisition.
 
  
 
@@ -238,8 +258,8 @@ params:
         school:
           name: "University of Colorado, Denver"
           url: "https://ucdenver.edu"
-        date: "2023 - 226"
-        content: ""
+        date: "Received May 2026"
+        content: "M.S. in Marketing with a specialization in Marketing Strategy in the 21st Century."
        
       - title: "B.A. English Writing, Minor in Linguistics"
         school:
@@ -257,22 +277,19 @@ params:
 
   # Achievements
   achievements:
-    enable: false
-    title: "Skills & Software Experience"
+    enable: true
+    title: "Expertise & Tools"
     items:
-      - title: Marketing Platforms
-        content: GoHighLevel, Shopify, Klaviyo (ESP)
-        url: "https://davidjdebonis.info"
-      - title: Ads Management Platforms
-        content: Facebook Meta / Ads Manager, Google Ads, X Ads
-      - title: Computational Languages
-        content: Python, Markdown, Git/Git Track Changes, Github
+      - title: Research & Science Communication
+        content: Biomedical informatics, clinical informatics, AI research, health education, technical writing, journalism
+        url: "https://medschool.cuanschutz.edu/dbmi"
+      - title: Health & Human Performance
+        content: NASM-certified personal training, health coaching, movement, recovery, and sustainable behavior change
+      - title: Research Methods & Computing
+        content: Python, data analysis, computational linguistics, phonetics, sequence matching, Markdown, Git
         url: "https://github.com/djdebonis"
-      - title: Design & Editing Softwares
-        content: Canva, Adobe Illustrator, Adobe Photoshop
-      - title: Other Platforms & Softwares
-        content: Wordpress, Squarespace, Microsoft Office, Hugo
-        url: "https://davidjdebonis.info"
+      - title: Digital Strategy & Marketing
+        content: Web development, content systems, SEO, email marketing, Shopify, Klaviyo, Google Ads, and Meta Ads
 
   # projects
   projects:
@@ -280,8 +297,8 @@ params:
     # title: "Custom Name"
     items:
       - title: Department of Biomedical Informatics
-        content: Supported communication efforts in bioinformatics, clinical informatics, and biomedical research discovery.
-        image: /images/nano_hemp_nanoemulsion_visual.png
+        content: Translated biomedical informatics, clinical informatics, and AI research into accessible newsroom stories and digital content.
+        image: /images/projects/vowel_accuracy_formal_lang_instruct.png
         featured:
           name: View the Projects on the DBMI Newsroom
           link: https://news.cuanschutz.edu/dbmi/author/david-debonis
@@ -310,8 +327,8 @@ params:
         content: Learn more about natural health, rewilding, and more.
         image: /images/projects/grass_nap.jpg
         featured:
-          name: View the Journal
-          link: https://synthesishealthsystems.com/
+          name: Read the Education Articles
+          link: https://synthesishealthsystems.com/blogs/education
         badges:
           - "Science Communication"
           - "Natural Health Science"

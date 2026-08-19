@@ -2,57 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/blogs/</loc>
+    <loc>http://localhost:1313/blogs/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blogs/black_coffee/</loc>
-    <lastmod>2022-10-15T23:29:21+05:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/creative-writing/</loc>
-    <lastmod>2022-10-15T23:29:21+05:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/nonfiction/</loc>
-    <lastmod>2022-10-15T23:29:21+05:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/prose/</loc>
-    <lastmod>2022-10-15T23:29:21+05:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/</loc>
-    <lastmod>2022-10-15T23:29:21+05:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/writing/</loc>
-    <lastmod>2022-10-15T23:29:21+05:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/gallery/</loc>
+    <loc>http://localhost:1313/gallery/</loc>
     <lastmod>2022-06-25T18:35:46+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/creative-nonfiction/</loc>
-    <lastmod>2021-04-03T23:29:21+05:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/essays/</loc>
-    <lastmod>2021-04-03T23:29:21+05:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/linguistics/</loc>
-    <lastmod>2021-04-03T23:29:21+05:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/blogs/debonis/</loc>
-    <lastmod>2021-04-03T23:29:21+05:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/article/</loc>
+    <loc>http://localhost:1313/tags/article/</loc>
     <lastmod>2020-05-03T23:29:21+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/blog-post/</loc>
+    <loc>http://localhost:1313/tags/blog-post/</loc>
     <lastmod>2020-05-03T23:29:21+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/science-communication/</loc>
+    <loc>http://localhost:1313/tags/science-communication/</loc>
     <lastmod>2020-05-03T23:29:21+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/blogs/circadian_rhythm_article/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2020-05-03T23:29:21+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/blogs/circadian_rhythm_article/</loc>
+    <lastmod>2020-05-03T23:29:21+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/writing/</loc>
+    <lastmod>2020-05-03T23:29:21+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about-david-debonis/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>

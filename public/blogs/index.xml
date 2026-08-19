@@ -1,33 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Blog on David J DeBonis</title>
-    <link>//localhost:1313/blogs/</link>
-    <description>Recent content in Blog on David J DeBonis</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 15 Oct 2022 23:29:21 +0530</lastBuildDate>
-    <atom:link href="//localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Black Coffee and the Prodigal Son</title>
-      <link>//localhost:1313/blogs/black_coffee/</link>
-      <pubDate>Sat, 15 Oct 2022 23:29:21 +0530</pubDate>
-      <guid>//localhost:1313/blogs/black_coffee/</guid>
-      <description>My Father always set the Cuisinart to 4:30 a.m. The Cuisinart always ran just a few minutes fast. When the time had come, the machine would start up by dispensing the coffee beans into the grinder. A few seconds would pass, and then, for a moment, the house would be silent. Then the crunch and grind of beans would fill the house, fading into the whir of the blade as the grounds spilled into the filter.</description>
-    </item>
-    <item>
-      <title>The DeBonis Family: From Italy to America</title>
-      <link>//localhost:1313/blogs/debonis/</link>
-      <pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
-      <guid>//localhost:1313/blogs/debonis/</guid>
-      <description>Introduction In 1936, my great-great-grandfather Emmanuele de Bonis, shot the town sheriff in the village of Miglionico. And so, in 1936, my great-great-grandfather Emmanuele de Bonis, along with his son (my great-grandfather), Michelangelo de Bonis (who was only 12 years old at the time, and will hereout be referred to as the anglicized ‘Michael’), left Italy on a ship to America.&#xA;According to Ravenstein’s laws of migration, the de Bonis family’s motivations for leaving Italy, although unorthodox, would be categorized as push forces.</description>
-    </item>
-    <item>
-      <title>The circadian rhythm: what it is, why it&#39;s important</title>
-      <link>//localhost:1313/blogs/circadian_rhythm_article/</link>
-      <pubDate>Sun, 03 May 2020 23:29:21 +0530</pubDate>
-      <guid>//localhost:1313/blogs/circadian_rhythm_article/</guid>
-      <description>Been having trouble sleeping lately? Had a hard time getting out of bed? Here’s how tuning into your circadian rhythm could help you to improve your sleep, heighten your mood, and boost your energy. View the full article about aligning the circadian rhythm here</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Blog on David J DeBonis</title>
+		<link>http://localhost:1313/blogs/</link>
+		<description>Recent content in Blog on David J DeBonis</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 03 May 2020 23:29:21 +0530</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The circadian rhythm: what it is, why it&#39;s important</title>
+				<link>http://localhost:1313/blogs/circadian_rhythm_article/</link>
+				<pubDate>Sun, 03 May 2020 23:29:21 +0530</pubDate>
+				<guid>http://localhost:1313/blogs/circadian_rhythm_article/</guid>
+				<description>&lt;p&gt;Been having trouble sleeping lately? Had a hard time getting out of bed? Here&amp;rsquo;s how tuning into your circadian rhythm could help you improve your sleep, heighten your mood, and boost your energy. &lt;a href=&#34;https://synthesishealthsystems.com/blogs/education/align-your-circadian-rhythm&#34;&gt;Read the full article about aligning your circadian rhythm&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

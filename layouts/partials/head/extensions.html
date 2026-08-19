@@ -1,0 +1,42 @@
+{{- $description := .Description | default .Site.Params.description -}}
+{{- $canonical := .Permalink -}}
+<link rel="canonical" href="{{ $canonical }}">
+<meta property="og:url" content="{{ $canonical }}">
+<meta property="og:image" content="{{ (.Site.Params.author.image | absURL) }}">
+<meta property="og:image:alt" content="Portrait of David DeBonis">
+<meta name="twitter:image" content="{{ (.Site.Params.author.image | absURL) }}">
+<meta name="twitter:image:alt" content="Portrait of David DeBonis">
+
+{{- $person := dict
+  "@type" "Person"
+  "@id" (printf "%s#person" .Site.Home.Permalink)
+  "name" .Site.Params.author.name
+  "alternateName" .Site.Params.author.alternateName
+  "url" .Site.Home.Permalink
+  "image" (.Site.Params.author.image | absURL)
+  "jobTitle" .Site.Params.author.jobTitle
+  "description" .Site.Params.description
+  "sameAs" .Site.Params.author.sameAs
+-}}
+{{- $website := dict
+  "@type" "WebSite"
+  "@id" (printf "%s#website" .Site.Home.Permalink)
+  "url" .Site.Home.Permalink
+  "name" .Site.Title
+  "description" .Site.Params.description
+  "publisher" (dict "@id" (printf "%s#person" .Site.Home.Permalink))
+-}}
+{{- $schema := dict "@context" "https://schema.org" "@graph" (slice $person $website) -}}
+{{- if .IsPage -}}
+  {{- $pageSchema := dict
+    "@type" (cond (eq .Section "blogs") "Article" "ProfilePage")
+    "@id" (printf "%s#webpage" $canonical)
+    "url" $canonical
+    "name" .Title
+    "description" $description
+    "isPartOf" (dict "@id" (printf "%s#website" .Site.Home.Permalink))
+    "author" (dict "@id" (printf "%s#person" .Site.Home.Permalink))
+  -}}
+  {{- $schema = dict "@context" "https://schema.org" "@graph" (slice $person $website $pageSchema) -}}
+{{- end -}}
+<script type="application/ld+json">{{ $schema | jsonify | safeJS }}</script>

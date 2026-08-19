@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Science Communication on David J DeBonis</title>
-    <link>//localhost:1313/tags/science-communication/</link>
-    <description>Recent content in Science Communication on David J DeBonis</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 03 May 2020 23:29:21 +0530</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/science-communication/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The circadian rhythm: what it is, why it&#39;s important</title>
-      <link>//localhost:1313/blogs/circadian_rhythm_article/</link>
-      <pubDate>Sun, 03 May 2020 23:29:21 +0530</pubDate>
-      <guid>//localhost:1313/blogs/circadian_rhythm_article/</guid>
-      <description>Been having trouble sleeping lately? Had a hard time getting out of bed? Here’s how tuning into your circadian rhythm could help you to improve your sleep, heighten your mood, and boost your energy. View the full article about aligning the circadian rhythm here</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Science Communication on David J DeBonis</title>
+		<link>http://localhost:1313/tags/science-communication/</link>
+		<description>Recent content in Science Communication on David J DeBonis</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 03 May 2020 23:29:21 +0530</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/science-communication/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The circadian rhythm: what it is, why it&#39;s important</title>
+				<link>http://localhost:1313/blogs/circadian_rhythm_article/</link>
+				<pubDate>Sun, 03 May 2020 23:29:21 +0530</pubDate>
+				<guid>http://localhost:1313/blogs/circadian_rhythm_article/</guid>
+				<description>&lt;p&gt;Been having trouble sleeping lately? Had a hard time getting out of bed? Here&amp;rsquo;s how tuning into your circadian rhythm could help you improve your sleep, heighten your mood, and boost your energy. &lt;a href=&#34;https://synthesishealthsystems.com/blogs/education/align-your-circadian-rhythm&#34;&gt;Read the full article about aligning your circadian rhythm&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
