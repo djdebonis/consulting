@@ -1,6 +1,7 @@
 {{- $description := .Description | default .Site.Params.description -}}
 {{- $canonical := .Permalink -}}
 {{- $pageImage := .Params.image | default .Site.Params.author.image | absURL -}}
+<link rel="icon" type="image/png" href="{{ "/djd_logo.png" | relURL }}">
 {{- if or (eq .Kind "taxonomy") (eq .Kind "term") -}}
 <meta name="robots" content="noindex,follow">
 {{- end -}}

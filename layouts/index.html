@@ -3,6 +3,19 @@
 <link rel="stylesheet" href="{{ .Site.Params.staticPath }}/css/index.css" media="all">
 <link rel="stylesheet" href="{{ .Site.Params.staticPath }}/css/projects.css" media="all">
 <script defer src="{{ .Site.Params.staticPath }}/fontawesome-6/all-6.4.2.js"></script>
+<style>
+  #projects .card-head {
+    aspect-ratio: 4 / 3;
+  }
+
+  #projects .card-img-top {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+</style>
 {{ end }}
 
 {{ define "title" }}{{ .Site.Params.homepageTitle | default .Site.Title }}{{ end }}

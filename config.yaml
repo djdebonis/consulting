@@ -72,7 +72,7 @@ params:
       - "https://synthesishealthsystems.com/blogs/education"
       - "https://synthesishumansystems.com/"
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/fav.png"
+  favicon: "/djd_logo.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -97,7 +97,11 @@ params:
     lineHeight: 1.5 # default: 1.5
     textAlign: left # default: left
 
-  # color preference
+  # Light-mode accent color
+  color:
+    primaryColor: "#000000"
+
+  # Additional color preferences
   # color:
   #   textColor:
   #   secondaryTextColor:
