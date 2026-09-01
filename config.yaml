@@ -1,5 +1,5 @@
 baseURL: "https://davidjdebonis.info/"
-languageCode: "en-us"
+locale: "en-us"
 title: "David J DeBonis"
 theme: 'hugo-profile'
 
@@ -62,13 +62,14 @@ params:
   description: Researcher, science communicator, health coach, and personal trainer
   author:
     name: "David DeBonis"
-    alternateName: "David J. DeBonis"
+    alternateName: "David J DeBonis"
     jobTitle: "Researcher and Science Communicator"
     image: "/images/david_debonis.jpg"
     sameAs:
       - "https://www.linkedin.com/in/djdebonis/"
       - "https://github.com/djdebonis"
       - "https://synthesishealthsystems.com/blogs/education"
+      - "https://synthesishumansystems.com/"
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
 
