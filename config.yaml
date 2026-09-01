@@ -59,12 +59,13 @@ Menus:
 
 params:
   title: "David J DeBonis"
-  description: Researcher, science communicator, health coach, and personal trainer
+  description: David J DeBonis is a researcher and science communicator working across biomedical informatics, linguistics, health education, and evidence-informed storytelling.
+  homepageTitle: "David J DeBonis | Researcher & Science Communicator"
   author:
     name: "David DeBonis"
     alternateName: "David J DeBonis"
     jobTitle: "Researcher and Science Communicator"
-    image: "/images/david_debonis.jpg"
+    image: "/images/david_debonis-1008.jpg"
     sameAs:
       - "https://www.linkedin.com/in/djdebonis/"
       - "https://github.com/djdebonis"
@@ -136,7 +137,7 @@ params:
     title: "David DeBonis"
     subtitle: "I translate research into clearer ideas, healthier decisions, and meaningful action."
     content: "Researcher, science communicator, health coach, and personal trainer working across biomedical research, linguistics, health education, and evidence-informed storytelling."
-    image: "/images/david_debonis.jpg"
+    image: "/images/david_debonis-1008.jpg"
     imageAlt: "David DeBonis outdoors"
     bottomImage:
       enable: true
@@ -161,7 +162,7 @@ params:
   about:
     enable: true
     title: "About"
-    image: "/images/david_debonis.jpg"
+    image: "/images/david_debonis-1008.jpg"
     imageAlt: "David DeBonis"
     content: |-
       I am a researcher and science communicator interested in how people understand complex information and use it to change their lives. My work sits at the intersection of biomedical research, linguistics, health education, and writing.
@@ -300,6 +301,9 @@ params:
       - title: Department of Biomedical Informatics
         content: Translated biomedical informatics, clinical informatics, and AI research into accessible newsroom stories and digital content.
         image: /images/projects/vowel_accuracy_formal_lang_instruct.png
+        imageAlt: Biomedical informatics research and science communication project
+        imageWidth: 640
+        imageHeight: 480
         featured:
           name: View the Projects on the DBMI Newsroom
           link: https://news.cuanschutz.edu/dbmi/author/david-debonis
@@ -307,26 +311,26 @@ params:
           - "Science Communication"
           - "Biomedical Research"
           - "Writing and Journalism"
-        links:
-          - icon: fab fa-github
-            url: https://news.cuanschutz.edu/dbmi/author/david-debonis
         
       - title: Cafelytics
         content: Supported the development of a computational simulation of a coffee operation based on data collected in Guatemala.
         image: /images/projects/coffee_coop.png
+        imageAlt: Cafelytics coffee-operation data modeling project
+        imageWidth: 1288
+        imageHeight: 971
         featured:
           name: View Project
           link: https://github.com/djdebonis/cafelytics
         badges:
           - "Python Software Development"
           - "Data Analytics & Modeling"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/djdebonis/cafelytics
 
       - title: Synthesis Health Systems Journal
         content: Learn more about natural health, rewilding, and more.
-        image: /images/projects/grass_nap.jpg
+        image: /images/projects/grass_nap-900.jpg
+        imageAlt: Person resting in grass for a natural health education article
+        imageWidth: 900
+        imageHeight: 675
         featured:
           name: Read the Education Articles
           link: https://synthesishealthsystems.com/blogs/education
@@ -334,7 +338,6 @@ params:
           - "Science Communication"
           - "Natural Health Science"
           - "Rewilding and Ancestral Health"
-        links:
 
   #Contact
   contact:

@@ -9,13 +9,14 @@ tags:
   - Science Communication
   - Article
   - Blog Post
-image: /images/grass_nap_full.jpeg
+image: /images/grass_nap-full-1200.jpeg
+imageAlt: "Person resting in tall grass beneath an open sky"
 description: "The Circadian Rhythm is the body & brain’s biological clock. Although it runs autonomically, if it is out of synch with external factors, it can be detrimental to mood, sleep, energy levels, and more. Read more to learn how to fix your circadian rhythm..."
 toc:
 ---
 
 Been having trouble sleeping lately? Had a hard time getting out of bed? Here's how tuning into your circadian rhythm could help you improve your sleep, heighten your mood, and boost your energy. [Read the full article about aligning your circadian rhythm](https://synthesishealthsystems.com/blogs/education/align-your-circadian-rhythm).
 
-
+*Written by [David J DeBonis](/about-david-debonis/), a researcher and science communicator working across health education and evidence-informed storytelling.*
 
 

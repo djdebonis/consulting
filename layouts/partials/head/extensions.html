@@ -1,6 +1,9 @@
 {{- $description := .Description | default .Site.Params.description -}}
 {{- $canonical := .Permalink -}}
 {{- $pageImage := .Params.image | default .Site.Params.author.image | absURL -}}
+{{- if or (eq .Kind "taxonomy") (eq .Kind "term") -}}
+<meta name="robots" content="noindex,follow">
+{{- end -}}
 <link rel="canonical" href="{{ $canonical }}">
 <meta property="og:url" content="{{ $canonical }}">
 <meta property="og:image" content="{{ $pageImage }}">
@@ -30,6 +33,20 @@
 -}}
 {{- $schema := dict "@context" "https://schema.org" "@graph" (slice $person $website) -}}
 {{- if .IsPage -}}
+  {{- $breadcrumbItems := slice
+    (dict "@type" "ListItem" "position" 1 "name" "Home" "item" .Site.Home.Permalink)
+  -}}
+  {{- if eq .Section "blogs" -}}
+    {{- $breadcrumbItems = $breadcrumbItems | append (dict "@type" "ListItem" "position" 2 "name" "Blog" "item" ("blogs/" | absURL)) -}}
+    {{- $breadcrumbItems = $breadcrumbItems | append (dict "@type" "ListItem" "position" 3 "name" .Title "item" $canonical) -}}
+  {{- else -}}
+    {{- $breadcrumbItems = $breadcrumbItems | append (dict "@type" "ListItem" "position" 2 "name" .Title "item" $canonical) -}}
+  {{- end -}}
+  {{- $breadcrumbs := dict
+    "@type" "BreadcrumbList"
+    "@id" (printf "%s#breadcrumb" $canonical)
+    "itemListElement" $breadcrumbItems
+  -}}
   {{- $pageSchema := dict
       "@type" "ProfilePage"
       "@id" (printf "%s#webpage" $canonical)
@@ -55,6 +72,6 @@
       "publisher" (dict "@id" (printf "%s#person" .Site.Home.Permalink))
     -}}
   {{- end -}}
-  {{- $schema = dict "@context" "https://schema.org" "@graph" (slice $person $website $pageSchema) -}}
+  {{- $schema = dict "@context" "https://schema.org" "@graph" (slice $person $website $pageSchema $breadcrumbs) -}}
 {{- end -}}
 <script type="application/ld+json">{{ $schema | jsonify | safeJS }}</script>

@@ -2,7 +2,7 @@
 title: "Image Gallery"
 date: 2022-06-25T18:35:46+05:30
 draft: false
-description: "My gallery :earth_asia:"
+description: "A landscape and film photography gallery by David J DeBonis, featuring mountains, forests, autumn colors, and outdoor scenes."
 layout: "gallery"
 galleryImages:
  - src: /images/mountains_calling_film.jpg

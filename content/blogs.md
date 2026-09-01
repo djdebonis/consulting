@@ -1,6 +1,7 @@
 ---
 title: "Blog"
 date: 2024-05-11
+description: "Articles by David J DeBonis about science communication, health education, sleep, research, writing, and evidence-informed decision-making."
 ---
 
-Welcome to our blog section. Here you'll find all our latest posts!
+Articles about science communication, health education, research, writing, and evidence-informed decision-making.
