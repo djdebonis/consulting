@@ -29,7 +29,7 @@
   "url" .Site.Home.Permalink
   "name" .Site.Title
   "description" .Site.Params.description
-  "inLanguage" .Site.Language.Locale
+  "inLanguage" .Site.Language.LanguageCode
   "publisher" (dict "@id" (printf "%s#person" .Site.Home.Permalink))
 -}}
 {{- $schema := dict "@context" "https://schema.org" "@graph" (slice $person $website) -}}

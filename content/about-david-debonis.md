@@ -1,6 +1,6 @@
 ---
 title: "About David DeBonis"
-description: "David DeBonis is a researcher, science communicator, writer, health coach, and certified personal trainer working across biomedical informatics, linguistics, health education, and human performance."
+description: "David J DeBonis is a writer, researcher, linguist, and entrepreneur working across biomedical informatics, health education, and human performance."
 author: "David DeBonis"
 type: "page"
 layout: "single"

@@ -1,5 +1,5 @@
 baseURL: "https://davidjdebonis.info/"
-locale: "en-us"
+languageCode: "en-us"
 title: "David J DeBonis"
 theme: 'hugo-profile'
 
@@ -12,7 +12,8 @@ outputs:
     - "HTML"
     - "RSS"
 
-Paginate: 3
+pagination:
+  pagerSize: 3
 enableRobotsTXT: true
 # disqusShortname: your-disqus-shortname
 # googleAnalytics: G-MEASUREMENT_ID
@@ -59,12 +60,12 @@ Menus:
 
 params:
   title: "David J DeBonis"
-  description: David J DeBonis is a researcher and science communicator working across biomedical informatics, linguistics, health education, and evidence-informed storytelling.
-  homepageTitle: "David J DeBonis | Researcher & Science Communicator"
+  description: David J DeBonis is a writer, researcher, linguist, and entrepreneur working across science, linguistics, health education, and evidence-informed storytelling.
+  homepageTitle: "David J DeBonis | Writer, Researcher, Linguist, Entrepreneur"
   author:
     name: "David DeBonis"
     alternateName: "David J DeBonis"
-    jobTitle: "Researcher and Science Communicator"
+    jobTitle: "Writer, Researcher, Linguist, Entrepreneur"
     image: "/images/david_debonis-1008.jpg"
     sameAs:
       - "https://www.linkedin.com/in/djdebonis/"
@@ -139,10 +140,10 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "David DeBonis"
-    subtitle: "I translate research into clearer ideas, healthier decisions, and meaningful action."
-    content: "Researcher, science communicator, health coach, and personal trainer working across biomedical research, linguistics, health education, and evidence-informed storytelling."
-    image: "/images/david_debonis-1008.jpg"
-    imageAlt: "David DeBonis outdoors"
+    subtitle: "I seek to explore humanity through the lens of science, culture, health, language, and storytelling."
+    content: "Writer, storyteller, science communicator, researcher, journalist, linguist, and health enthusiast working across biomedical research, linguistics, health education, and evidence-informed storytelling."
+    image: "/images/david_debonis_portrait1_med.jpeg"
+    imageAlt: "A portrait of David DeBonis (a.k.a David J DeBonis) in a blue shirt with the Denver Skyline and the Rocky Mountain front range in the background."
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -166,14 +167,10 @@ params:
   about:
     enable: true
     title: "About"
-    image: "/images/david_debonis-1008.jpg"
+    image: "/images/david_debonis_portrait1_med.jpeg"
     imageAlt: "David DeBonis"
     content: |-
-      I am a researcher and science communicator interested in how people understand complex information and use it to change their lives. My work sits at the intersection of biomedical research, linguistics, health education, and writing.
-
-      At the Department of Biomedical Informatics at CU Anschutz, I helped communicate work in bioinformatics, clinical informatics, artificial intelligence, and research discovery. I also bring a practical health perspective as a certified personal trainer and health coach, with an interest in helping people build sustainable relationships with movement, recovery, and everyday health.
-
-      Marketing is part of my toolkit, but it is not the whole story. I use strategy, writing, data, and digital systems to make useful ideas more accessible and more actionable.
+      I am a multidisciplinary writer, researcher, and storyteller interested in understanding what it means to be human in this world. My work sits at the intersection of communications, biomedical research, linguistics, health education, writing, and more.
 
     skills:
       enable: true
@@ -194,20 +191,32 @@ params:
     - job: "Marketing, Communications, and Events Coordinator"
       company: "Department of Biomedical Informatics at CU Anschutz"
       companyUrl: "https://medschool.cuanschutz.edu/dbmi"
-      date: "June 2021 - August 2021"
+      date: "August 2025 – Present"
       info:
         enable: true
       featuredLink:
         enable: true
         name: "Learn More"
         url: "https://medschool.cuanschutz.edu/dbmi"
-        content: |
-         Communicate biomedical informatics, clinical informatics, and artificial intelligence research for public and professional audiences
-         Write and edit newsroom articles, blog posts, web content, and social media communications that translate complex research into clear stories
-         Collaborate with researchers, healthcare workers, and scientists to explain technical work without losing its meaning or rigor
-         Support research initiatives, events, and programs through editorial planning, visual communication, and digital publishing
-         Lead the DBMI Wall of Software (WOS) promotional initiative, highlighting research tools and their applications across channels
+      content: |
+        Communicate biomedical informatics, clinical informatics, and artificial intelligence research for public and professional audiences
+        Write and edit newsroom articles, blog posts, web content, and social media communications that translate complex research into clear stories
+        Collaborate with researchers, healthcare workers, and scientists to explain technical work without losing its meaning or rigor
+        Support research initiatives, events, and programs through editorial planning, visual communication, and digital publishing
+        Lead the DBMI Wall of Software (WOS) promotional initiative, highlighting research tools and their applications across channels
          
+    - job: "English Language Arts Teacher"
+      company: "Venture Academy of Leadership and Entrepreneurship"
+      companyUrl: "https://vale.dcsdk12.org/"
+      date: "June 2024 - May 2026"
+      info:
+        enable: true
+      featuredLink:
+        enable: false
+        name: "Learn More"
+        url: "https://vale.dcsdk12.org/"
+      content: ""
+
     - job: "Director of E-Commerce Operations and Product Education"
       company: "Nano Bella"
       companyUrl: "https://nanobella.com"
@@ -221,20 +230,17 @@ params:
         marketing and project education efforts. Led initiatives in web development, product education, email marketing, and more.
 
     - job: "Research Assistant"
-      company: "CU Denver Modern Languages"
+      company: "CU Denver Department of Modern Languages"
       companyUrl: "https://symposium.foragerone.com/2023-summer/presentations/58498"
-      date: "Sep 2020 - Dec 2021"
+      date: "Sep 2020 - Present (Intermittent)"
       featuredLink:
         enable: true
-        name: "View the Project"
+        name: "View an example Project"
         url: "https://symposium.foragerone.com/2023-summer/presentations/58498"
       info:
         enable: true
       content: |
-        Researched prescriptive and descriptive phonetics in Spanish language acquisition;
-        transcribed audio recordings into the International Phonetic Alphabet (IPA) leveraging Praat;
-        wrote python code for string parsing, sequence matching, and comparative data analysis;
-        explored the role of language transfer, as well as explicit instruction in phonemic/phonetic acquisition in L1 English L2 Spanish speakers.
+        Researched second language acquisition, pedagogy, phonetics, accent acquisition, course enrollment, and more.
 
     - job: "Professional Writing Consultant"
       company: "CU Denver Writing Center"
