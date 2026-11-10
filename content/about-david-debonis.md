@@ -1,28 +1,27 @@
 ---
-title: "About David DeBonis"
-description: "David J DeBonis is a writer, researcher, linguist, and entrepreneur working across biomedical informatics, health education, and human performance."
-author: "David DeBonis"
-type: "page"
-layout: "single"
-draft: false
+lastmod: 2026-11-09
+title: "About David J. DeBonis"
+description: "David J. DeBonis is a marketing strategist, science communicator, and writer with a background in language research, teaching, and e-commerce."
 ---
 
-David DeBonis is a researcher, science communicator, writer, health advocate, health coach, and certified personal trainer. His work connects biomedical research, linguistics, health education, human performance, and clear public-facing storytelling.
+David J. DeBonis is a marketing strategist, science communicator, and writer. He writes about biomedical research at the University of Colorado Anschutz Medical Campus and runs an independent consulting practice, Antilo Design.
 
-## Research and science communication
+His earlier work includes e-commerce operations and product education at Nano Bella, teaching English language arts, and consulting with students at the CU Denver Writing Center.
 
-David has worked with the Department of Biomedical Informatics at CU Anschutz, communicating research in biomedical informatics, clinical informatics, artificial intelligence, and research discovery. He writes for audiences that need complex ideas to be accurate, understandable, and useful.
+## Research and communication
 
-His research background also includes computational linguistics, phonetics, language acquisition, data analysis, and Python-based research methods. He is particularly interested in how language and communication shape understanding.
+An interest in how people understand one another runs through David’s work. His language research examines how people learn; his science writing explains research to readers who may be unfamiliar with the field. In both, he pays attention to what the evidence supports and where questions remain.
 
-## Health and human performance
+Through [Antilo Design](https://antilodesign.com/), he works on marketing strategy and websites. Projects have included a brand transition for Colorado Sauce Company and local housing research for TGB Flooring. His [selected work](/work/) describes those projects alongside his scientific reporting.
 
-As a certified personal trainer and health coach, David is interested in evidence-informed approaches to movement, recovery, sleep, behavior change, and sustainable health practices. His health writing aims to distinguish useful evidence from exaggerated claims and to make practical recommendations easier to understand.
+## Education and research
 
-## Writing and communication
+David holds an M.S. in Marketing and a B.A. in English Writing, with a minor in Linguistics, from the University of Colorado Denver. His research experience includes language acquisition, phonetics, computational analysis, and writing pedagogy. More detail is available on the [experience and education page](/experience/).
 
-David writes across science communication, health education, technical writing, academic research, journalism, and creative nonfiction. He also works with digital strategy and marketing when those tools help research, health information, or public-interest ideas reach the people who need them.
+## Independent interests
 
-Explore his [science communication and health writing](https://synthesishealthsystems.com/blogs/education), [biomedical informatics work](https://news.cuanschutz.edu/dbmi/author/david-debonis), and [research and software projects](https://github.com/djdebonis).
+David founded [Seeking Synthesis](https://seekingsynthesis.com/) to write about health, science, adventure, and the human experience. He publishes research articles and personal essays there.
 
-For professional inquiries, [get in touch by email](mailto:davidjdebonis@gmail.com).
+He also photographs landscapes and experiments with film. A small selection is in the [photography gallery](/gallery/).
+
+[Connect with David](/contact/) about professional opportunities, research communication, writing, or collaboration.

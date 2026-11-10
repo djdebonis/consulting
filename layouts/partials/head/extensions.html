@@ -1,16 +1,16 @@
 {{- $description := .Description | default .Site.Params.description -}}
 {{- $canonical := .Permalink -}}
 {{- $pageImage := .Params.image | default .Site.Params.author.image | absURL -}}
-<link rel="icon" type="image/png" href="{{ "/djd_logo.png" | relURL }}">
-{{- if or (eq .Kind "taxonomy") (eq .Kind "term") -}}
+
+{{- if or (eq .Kind "taxonomy") (eq .Kind "term") (eq .Kind "404") -}}
 <meta name="robots" content="noindex,follow">
 {{- end -}}
 <link rel="canonical" href="{{ $canonical }}">
 <meta property="og:url" content="{{ $canonical }}">
 <meta property="og:image" content="{{ $pageImage }}">
-<meta property="og:image:alt" content="{{ .Title | default .Site.Title }}">
+<meta property="og:image:alt" content="{{ .Params.imageAlt | default "David J. DeBonis" }}">
 <meta name="twitter:image" content="{{ $pageImage }}">
-<meta name="twitter:image:alt" content="{{ .Title | default .Site.Title }}">
+<meta name="twitter:image:alt" content="{{ .Params.imageAlt | default "David J. DeBonis" }}">
 
 {{- $person := dict
   "@type" "Person"
@@ -29,18 +29,18 @@
   "url" .Site.Home.Permalink
   "name" .Site.Title
   "description" .Site.Params.description
-  "inLanguage" .Site.Language.LanguageCode
+  "inLanguage" .Site.Language.Locale
   "publisher" (dict "@id" (printf "%s#person" .Site.Home.Permalink))
 -}}
 {{- $schema := dict "@context" "https://schema.org" "@graph" (slice $person $website) -}}
-{{- if .IsPage -}}
+{{- if or .IsPage .IsHome -}}
   {{- $breadcrumbItems := slice
     (dict "@type" "ListItem" "position" 1 "name" "Home" "item" .Site.Home.Permalink)
   -}}
   {{- if eq .Section "blogs" -}}
-    {{- $breadcrumbItems = $breadcrumbItems | append (dict "@type" "ListItem" "position" 2 "name" "Blog" "item" ("blogs/" | absURL)) -}}
+    {{- $breadcrumbItems = $breadcrumbItems | append (dict "@type" "ListItem" "position" 2 "name" "Writing" "item" ("blogs/" | absURL)) -}}
     {{- $breadcrumbItems = $breadcrumbItems | append (dict "@type" "ListItem" "position" 3 "name" .Title "item" $canonical) -}}
-  {{- else -}}
+  {{- else if not .IsHome -}}
     {{- $breadcrumbItems = $breadcrumbItems | append (dict "@type" "ListItem" "position" 2 "name" .Title "item" $canonical) -}}
   {{- end -}}
   {{- $breadcrumbs := dict
@@ -49,30 +49,21 @@
     "itemListElement" $breadcrumbItems
   -}}
   {{- $pageSchema := dict
-      "@type" "ProfilePage"
+      "@type" "WebPage"
       "@id" (printf "%s#webpage" $canonical)
       "url" $canonical
       "name" .Title
       "description" $description
       "isPartOf" (dict "@id" (printf "%s#website" .Site.Home.Permalink))
-      "mainEntity" (dict "@id" (printf "%s#person" .Site.Home.Permalink))
     -}}
-  {{- if eq .Section "blogs" -}}
-    {{- $pageSchema = dict
-      "@type" "Article"
-      "@id" (printf "%s#article" $canonical)
-      "url" $canonical
-      "headline" .Title
-      "description" $description
-      "image" $pageImage
-      "datePublished" (.Date.Format "2006-01-02T15:04:05Z07:00")
-      "dateModified" (.Lastmod.Format "2006-01-02T15:04:05Z07:00")
-      "mainEntityOfPage" (dict "@type" "WebPage" "@id" $canonical)
-      "isPartOf" (dict "@id" (printf "%s#website" .Site.Home.Permalink))
-      "author" (dict "@id" (printf "%s#person" .Site.Home.Permalink))
-      "publisher" (dict "@id" (printf "%s#person" .Site.Home.Permalink))
-    -}}
+  {{- if or .IsHome (eq .RelPermalink "/about-david-debonis/") -}}
+    {{- $pageSchema = merge $pageSchema (dict "@type" "ProfilePage" "mainEntity" (dict "@id" (printf "%s#person" .Site.Home.Permalink))) -}}
+  {{- else -}}
+    {{- if eq .RelPermalink "/contact/" -}}{{- $pageSchema = merge $pageSchema (dict "@type" "ContactPage") -}}{{- end -}}
+    {{- if eq .RelPermalink "/gallery/" -}}{{- $pageSchema = merge $pageSchema (dict "@type" "CollectionPage") -}}{{- end -}}
   {{- end -}}
-  {{- $schema = dict "@context" "https://schema.org" "@graph" (slice $person $website $pageSchema $breadcrumbs) -}}
+  {{- $graph := slice $person $website $pageSchema -}}
+  {{- if not .IsHome -}}{{- $graph = $graph | append $breadcrumbs -}}{{- end -}}
+  {{- $schema = dict "@context" "https://schema.org" "@graph" $graph -}}
 {{- end -}}
 <script type="application/ld+json">{{ $schema | jsonify | safeJS }}</script>

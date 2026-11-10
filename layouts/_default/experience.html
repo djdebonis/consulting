@@ -1,0 +1,6 @@
+{{ define "main" }}<article class="prose wrap"><header class="page-heading"><p class="eyebrow">Professional background</p><h1>{{ .Title }}</h1></header>{{ .Content }}
+<h2 id="professional-experience">Professional experience</h2>
+{{ range .Site.Params.experience.items }}<section class="role"><h3>{{ .job }}</h3><p class="role-meta">{{ .company }}{{ with .date }}<br>{{ . }}{{ end }}</p>{{ .content | markdownify }}</section>{{ end }}
+<h2 id="education">Education</h2>{{ range .Site.Params.education.items }}<section class="role"><h3>{{ .title }}</h3><p class="role-meta">{{ .school.name }} · {{ .date }}</p>{{ .content | markdownify }}</section>{{ end }}
+<h2>Capabilities & tools</h2><p>Marketing strategy, brand positioning, scientific and technical communication, content strategy, copywriting, SEO, email marketing, Shopify, Klaviyo, Google Ads, Meta Ads, web development, visual communication, project management, Python, and data analysis.</p>
+<p><a href="/work/">See examples of my work</a> or <a href="/contact/">get in touch</a>.</p></article>{{ end }}

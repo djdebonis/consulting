@@ -1,0 +1,19 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{{ $title := printf "%s | %s" .Title .Site.Title }}{{ if .IsHome }}{{ $title = .Site.Params.homepageTitle }}{{ end }}
+<title>{{ $title }}</title>
+<meta name="description" content="{{ .Description | default .Site.Params.description }}">
+<link rel="icon" href="{{ "djd_logo.png" | relURL }}" type="image/png">
+<link rel="stylesheet" href="{{ "bootstrap-5/css/bootstrap.min.css" | relURL }}">
+<link rel="stylesheet" href="{{ "css/editorial.css" | relURL }}">
+<meta property="og:title" content="{{ $title }}">
+<meta property="og:description" content="{{ .Description | default .Site.Params.description }}">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ $title }}">
+<meta name="twitter:description" content="{{ .Description | default .Site.Params.description }}">
+{{ range .AlternativeOutputFormats }}{{ if eq .Name "RSS" }}<link rel="alternate" type="{{ .MediaType.Type }}" href="{{ .Permalink }}" title="{{ $.Title }}">{{ end }}{{ end }}
+{{ template "_internal/google_analytics.html" . }}
+{{ partial "head/extensions.html" . }}

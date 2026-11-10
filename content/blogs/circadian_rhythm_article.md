@@ -1,22 +1,15 @@
 ---
-title: "The circadian rhythm: what it is, why it's important"
+lastmod: 2026-11-09
+title: "Understanding the circadian rhythm"
 date: 2020-05-03T23:29:21+05:30
-draft: false
-github_link: ""
-author: "David J DeBonis"
-tags:
-  - Writing
-  - Science Communication
-  - Article
-  - Blog Post
+description: "David J. DeBonis writes about circadian rhythms, sleep, and environmental cues at Seeking Synthesis."
+tags: [Writing, Science Communication, Article, Blog Post]
 image: /images/grass_nap-full-1200.jpeg
-imageAlt: "Person resting in tall grass beneath an open sky"
-description: "The Circadian Rhythm is the body & brain’s biological clock. Although it runs autonomically, if it is out of synch with external factors, it can be detrimental to mood, sleep, energy levels, and more. Read more to learn how to fix your circadian rhythm..."
-toc:
+imageAlt: "Person resting in tall grass"
 ---
 
-Been having trouble sleeping lately? Had a hard time getting out of bed? Here's how tuning into your circadian rhythm could help you improve your sleep, heighten your mood, and boost your energy. [Read the full article about aligning your circadian rhythm](https://synthesishealthsystems.com/blogs/education/align-your-circadian-rhythm).
+An article about the body’s daily rhythms and how sleep relates to cues from our environment.
 
-*Written by [David J DeBonis](/about-david-debonis/), a researcher and science communicator working across health education and evidence-informed storytelling.*
+[Read the article at Seeking Synthesis](https://seekingsynthesis.com/blogs/education/align-your-circadian-rhythm).
 
-
+[More of my writing](/blogs/).

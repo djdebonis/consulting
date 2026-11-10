@@ -1,8 +1,9 @@
 ---
-title: "Image Gallery"
+lastmod: 2026-11-08
+title: "Photography"
 date: 2022-06-25T18:35:46+05:30
 draft: false
-description: "A landscape and film photography gallery by David J DeBonis, featuring mountains, forests, autumn colors, and outdoor scenes."
+description: "A landscape and film photography gallery by David J. DeBonis, featuring mountains, forests, autumn colors, and outdoor scenes."
 layout: "gallery"
 galleryImages:
  - src: /images/mountains_calling_film.jpg
@@ -18,3 +19,5 @@ galleryImages:
  - src: /images/film/paradise.jpg
    alt: "Landscape photograph titled Paradise"
 ---
+
+A few of my photographs from time outdoors, including experiments with film.

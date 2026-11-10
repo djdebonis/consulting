@@ -1,7 +1,21 @@
 # netlify.toml
 [build]
-  command = "git submodule update --init --recursive && hugo"
+  command = "git submodule update --init --recursive && hugo --minify --cleanDestinationDir"
   publish = "public"
 
 [build.environment]
   HUGO_VERSION = "0.165.0"
+
+# Standalone pages no longer generate meaningless per-page feeds.
+[[redirects]]
+  from = "/about-david-debonis/index.xml"
+  to = "/index.xml"
+  status = 301
+[[redirects]]
+  from = "/gallery/index.xml"
+  to = "/index.xml"
+  status = 301
+[[redirects]]
+  from = "/blogs/circadian_rhythm_article/index.xml"
+  to = "/blogs/index.xml"
+  status = 301

@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Locale }}">
+<head>{{ partial "head.html" . }}</head>
+<body class="light">
+<a class="skip-link" href="#content">Skip to content</a>
+{{ partial "sections/header.html" . }}
+<main id="content" tabindex="-1">{{ block "main" . }}{{ end }}</main>
+{{ partial "sections/footer/index.html" . }}
+<script src="{{ "bootstrap-5/js/bootstrap.bundle.min.js" | relURL }}" defer></script>
+{{ partial "scripts.html" . }}
+<section id="search-content" aria-label="Search results" hidden><div id="search-results" aria-live="polite"></div></section>
+</body></html>
